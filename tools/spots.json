@@ -1,0 +1,268 @@
+{
+  "_doc": "Points recoupés à la main. kind des sources : temoignage | rando | officiel | osm. precision : exact | approx | zone. Le score (conf) et la distance à la BD Forêt sont calculés par build_points.py.",
+  "spots": [
+    {
+      "id": "murier",
+      "type": "spot",
+      "name": "Colline du Mûrier (fort du Mûrier)",
+      "commune": "Gières / Saint-Martin-d'Hères / Herbeys",
+      "lat": 45.1709, "lon": 5.7759, "precision": "approx",
+      "desc": "Colline boisée à 10 min de Grenoble, forêt dense avec beaucoup de châtaigniers autour du fort et sur le versant Gières/Venon. Spot très connu et très fréquenté : châtaignes souvent petites, il faut s'éloigner des chemins principaux.",
+      "acces": "Grand parking presque en face du fort du Mûrier (route du Mûrier depuis Gières).\nAlternative : se garer route de Villeneuve (passer le fort à gauche et le parc à droite, puis tourner à gauche).\nBoucle facile autour du fort, puis descendre côté Venon/Gières où sont les plus grands peuplements IGN.",
+      "sources": [
+        { "kind": "temoignage", "label": "Forum Skipass « Des petits coins à châtaignes ? »", "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html", "date": "2006", "quote": "assez souvent toutes petites et ont un peu le goût de la ville" },
+        { "kind": "temoignage", "label": "Blog Chloé Clafoutis — balade près du fort du Mûrier", "url": "https://chloeclafoutis.canalblog.com/archives/2008/10/23/11062777.html", "date": "2008" },
+        { "kind": "rando", "label": "Decathlon Outdoor — boucle du Mûrier", "url": "https://www.decathlon-outdoor.com/fr-fr/explore/france/boucle-du-murier-et-panoramas-a-couper-le-souffle-5fde1d68a8e48", "date": "" , "noChestnut": true }
+      ]
+    },
+    {
+      "id": "eybens-arcelles",
+      "type": "spot",
+      "name": "Forêt des Arcelles & belvédère du Sabot",
+      "commune": "Eybens",
+      "lat": 45.1440, "lon": 5.7570, "precision": "approx",
+      "desc": "Forêt de feuillus « en particulier de châtaigniers » qui domine le bourg d'Eybens (Frange verte). Le sentier balisé des Arcelles (3 km) traverse le peuplement IGN de 43 ha. Prolongeable vers Haute-Jarrie.",
+      "acces": "Parking devant l'église d'Eybens (245 m), puis rue des Arraults → belvédère du Sabot → carrefour des Arcelles.\nLe plus gros de la châtaigneraie est entre le Sabot et le carrefour des Arcelles.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Une boucle des Arcelles au départ d'Eybens", "url": "https://www.visorando.com/randonnee-la-boucle-des-arcelles-au-depart-d-eyben/", "date": "2023", "quote": "découvrir la forêt de châtaigniers dominant le gros bourg d'Eybens" },
+        { "kind": "officiel", "label": "Grenoble Tourisme — À la découverte des Arcelles", "url": "https://www.grenoble-tourisme.com/en/catalog/detail/a-la-decouverte-des-arcelles-10338/", "date": "" },
+        { "kind": "temoignage", "label": "Qcunbon Grenoble (cite la Frange verte d'Échirolles)", "url": "https://www.qcunbon.fr/grenoble/12502925", "date": "2015" }
+      ]
+    },
+    {
+      "id": "haute-jarrie",
+      "type": "spot",
+      "name": "Forêt de Haute-Jarrie & plateau de Champagnier",
+      "commune": "Jarrie / Champagnier",
+      "lat": 45.1290, "lon": 5.7370, "precision": "approx",
+      "desc": "Le plus gros massif de châtaigniers purs proche de Grenoble (264 ha IGN) entre Champagnier et Haute-Jarrie, sur un plateau peu pentu : idéal en famille. Forêt « aux essences de châtaigniers et de bouleaux ».",
+      "acces": "Parking de l'étang de Haute-Jarrie (réserve naturelle), boucle balisée de 5,5 km par la forêt.\nAutre départ : Champagnier (tour de la colline) ou depuis la Frange verte d'Échirolles.\nLa réserve elle-même (étang, roselière) est protégée : on ramasse dans la forêt, pas dans la réserve.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — L'étang et la forêt de Haute Jarrie", "url": "https://www.visorando.com/randonnee-l-etang-et-la-foret-de-haute-jarrie/", "date": "2025", "quote": "la forêt de Haute-Jarrie, aux essences de châtaigniers et de bouleaux" },
+        { "kind": "officiel", "label": "Grenoble Tourisme / Alpes Isère — balade nature Haute-Jarrie", "url": "https://www.echosciences-grenoble.fr/evenements/jarrie-balade-nature", "date": "" },
+        { "kind": "temoignage", "label": "Qcunbon Grenoble (cite Champagnier)", "url": "https://www.qcunbon.fr/grenoble/12502925", "date": "2015" },
+        { "kind": "osm", "label": "OpenStreetMap — forêt taguée « chestnut_trees » et poteau « La Châtaigneraie »", "url": "https://www.openstreetmap.org/relation/6150327", "date": "" }
+      ]
+    },
+    {
+      "id": "herbeys-fournet",
+      "type": "spot",
+      "name": "Hauteurs d'Herbeys — sentier du Fournet",
+      "commune": "Herbeys",
+      "lat": 45.1545, "lon": 5.7985, "precision": "exact",
+      "desc": "Sur la boucle « Sur les hauteurs d'Herbeys », le tronçon qui monte vers le Fournet (entre les points 3 et 4 du topo, ~810 → 860 m) est cité pour ses châtaignes fin octobre.",
+      "acces": "Petit parking route de la Côte en montant (719 m), juste après un châtaignier sur la gauche, au niveau du chemin de la Vie.\nBoucle de 4,2 km : prendre à droite vers le Fournet au point 3.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Sur les hauteurs d'Herbeys", "url": "https://www.visorando.com/randonnee-sur-les-hauteurs-d-herbeys/", "date": "2026", "quote": "vous trouverez sur ce tronçon des châtaignes fin octobre" }
+      ]
+    },
+    {
+      "id": "combeloup",
+      "type": "spot",
+      "name": "Forêt domaniale de Combeloup",
+      "commune": "Murianette / Venon",
+      "lat": 45.1900, "lon": 5.8290, "precision": "zone",
+      "desc": "Grand peuplement de châtaigniers purs (≈ 125 ha IGN, plus 25 ha vers le sommet de Combeloup) sur le versant au-dessus de Murianette. Forêt domaniale : cueillette familiale tolérée. Pas de témoignage précis trouvé, mais c'est la suite naturelle du Mûrier, en général moins fréquentée.",
+      "acces": "Grand parking sous la mairie de Murianette / devant le groupe scolaire Raffin-Dugens (bus ligne 15, arrêt Le Bourg).\nBoucle balisée jaune de 11 km (+600 m) par La Pérée, Les Charmettes, Les Combes, Pressembois et la forêt.",
+      "sources": [
+        { "kind": "officiel", "label": "Grenoble Tourisme — La forêt de Combeloup depuis Murianette", "url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/murianette-2991146/la-foret-de-combeloup-depuis-murianette-5587130/", "date": "", "noChestnut": true }
+      ]
+    },
+    {
+      "id": "st-jean-le-vieux",
+      "type": "spot",
+      "name": "Versant de Saint-Jean-le-Vieux & col de la Cochette",
+      "commune": "Saint-Jean-le-Vieux / Le Versoud / La Combe-de-Lancey",
+      "lat": 45.2200, "lon": 5.8780, "precision": "zone",
+      "desc": "Énorme peuplement de châtaigniers purs (245 ha IGN + 55 ha vers Revel) sur les balcons de Belledonne au-dessus de Domène et du Versoud. Peu documenté sur les forums : à explorer, en restant sur les chemins balisés et hors des prés/vergers privés.",
+      "acces": "Départ facile : col de la Cochette (parking au col, La Combe-de-Lancey) puis boucle par la crête (5 km) en forêt.\nOu église de Saint-Jean-le-Vieux (petite boucle autour du village).\nDepuis Domène : chemin balisé par Saint-Jean-le-Vieux et la Tour de Revel (≈ 10 km).",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Le col de la Cochette en boucle par la crête", "url": "https://www.visorando.com/randonnee-le-col-de-la-cochette-en-boucle-par-la-c/", "date": "", "noChestnut": true },
+        { "kind": "rando", "label": "AllTrails — Domène et Le Versoud", "url": "https://www.alltrails.com/trail/france/isere/domene-et-le-versoud", "date": "", "noChestnut": true }
+      ]
+    },
+    {
+      "id": "revollat",
+      "type": "rando",
+      "name": "Croix de Révollat depuis Saint-Mury",
+      "commune": "Saint-Mury-Monteymond",
+      "lat": 45.220209, "lon": 5.928083, "precision": "exact",
+      "rando": { "km": 7.1, "dplus": 321, "duree": "2h55" },
+      "desc": "« Itinéraire facile en forêt de châtaigniers à faire à l'automne pour profiter des derniers beaux jours et ramasser quelques fruits. » Arrivée sur la croix qui domine le Grésivaudan.",
+      "acces": "Départ près de la petite fontaine au centre du village (≈ 800 m), stationnement au village.\nAttention : la dernière descente avant la croix est raide et glissante avec les feuilles de châtaignier mouillées.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Croix de Révollat depuis Saint-Mury-Monteymond", "url": "https://www.visorando.com/randonnee-croix-de-revollat-depuis-saint-mury-mont/", "date": "2021", "quote": "Itinéraire facile en forêt de châtaigniers à faire à l'automne" }
+      ]
+    },
+    {
+      "id": "hurtieres-adrets",
+      "type": "spot",
+      "name": "Route Les Adrets → Hurtières",
+      "commune": "Les Adrets / Hurtières",
+      "lat": 45.2790, "lon": 5.9660, "precision": "approx",
+      "desc": "Balcon de Belledonne réputé : « y en a plein partout, même sur la route ». Un forumeur y a ramassé 5 kg. Châtaigniers dans les forêts de feuillus mélangés (pas de peuplement pur IGN ici).",
+      "acces": "Pas de parking dédié : se garer sur les bas-côtés larges ou aux entrées de hameaux, puis marcher sur les chemins forestiers de part et d'autre de la route.\nBeaucoup de châtaigniers bordent des prés privés : ne pas franchir les clôtures.",
+      "sources": [
+        { "kind": "temoignage", "label": "Forum Skipass « Des petits coins à châtaignes ? »", "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html", "date": "2006", "quote": "y en a pleins partout, même sur la route" }
+      ]
+    },
+    {
+      "id": "montgoutoux",
+      "type": "spot",
+      "name": "Virages sous Montgoutoux (route du col du Barioz)",
+      "commune": "Goncelin / Saint-Pierre-d'Allevard",
+      "lat": 45.3560, "lon": 6.0520, "precision": "approx",
+      "desc": "« En direction du col du Barioz, vers Montgoutoux, les derniers virages avant d'arriver au hameau, y'a qu'à se baisser. »",
+      "acces": "Monter de Goncelin vers Montgoutoux (route de Montgoutoux). Se garer dans le hameau sans gêner, puis redescendre à pied les derniers virages.",
+      "sources": [
+        { "kind": "temoignage", "label": "Forum Skipass « Des petits coins à châtaignes ? »", "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html", "date": "2006", "quote": "les derniers virages avant d'arriver au hameau, y'a qu'à se baisser" }
+      ]
+    },
+    {
+      "id": "sollieres",
+      "type": "rando",
+      "name": "Boucle des hameaux de Sollières et Ruche",
+      "commune": "Goncelin",
+      "lat": 45.337637, "lon": 6.000371, "precision": "exact",
+      "rando": { "km": 7.1, "dplus": 299, "duree": "2h55" },
+      "desc": "Boucle facile au-dessus de Goncelin. Entre la croix de Sollières et la jonction de chemins (~1,8 → 2,6 km) : « continuer sous les châtaigniers en montant doucement ». Deux tiers sur petites routes calmes.",
+      "acces": "Se garer à la fourche entre les routes après le hameau de Champet : plusieurs voitures peuvent stationner sans gêner.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Boucle par les hameaux de Sollières et Ruche", "url": "https://www.visorando.com/randonnee-boucle-par-les-hameaux-de-sollieres-et-r/", "date": "2024", "quote": "Continuer sous les châtaigniers en montant doucement" }
+      ]
+    },
+    {
+      "id": "uriage-belmont",
+      "type": "rando",
+      "name": "Entre Belmont et les Seiglières en forêt",
+      "commune": "Vaulnaveys-le-Haut / Saint-Martin-d'Uriage",
+      "lat": 45.1200, "lon": 5.8284, "precision": "approx",
+      "rando": { "km": 15.5, "dplus": 798, "duree": "6h40" },
+      "desc": "Grande boucle basse altitude (90 % sur sentiers) entre Belmont et les Seiglières, au pied de Belledonne. « Champignons et châtaignes en automne. » Raccourcis possibles par la route.",
+      "acces": "Départ de Vaulnaveys-le-Haut (hameau de Belmont, arrêt de bus Belmont). Vérifier le point exact sur la fiche.",
+      "sources": [
+        { "kind": "rando", "label": "Decathlon Outdoor — Entre Belmont et les Seiglières en forêt", "url": "https://www.decathlon-outdoor.com/fr-fr/explore/france/entre-belmont-et-les-seiglieres-en-foret-653a8762db858", "date": "", "quote": "Champignons et châtaignes en automne." },
+        { "kind": "temoignage", "label": "Qcunbon Grenoble (cite Uriage)", "url": "https://www.qcunbon.fr/grenoble/12502925", "date": "2015" }
+      ]
+    },
+    {
+      "id": "vaulnaveys-chataigneraie",
+      "type": "spot",
+      "name": "Chemin de la Châtaigneraie",
+      "commune": "Vaulnaveys-le-Bas",
+      "lat": 45.1034, "lon": 5.8110, "precision": "approx",
+      "desc": "Petit peuplement de châtaigniers purs (8 ha IGN) au bout d'un chemin nommé… « de la Châtaigneraie ». La boucle Vizille – Vaulnaveys passe à côté. Aucun témoignage : à vérifier.",
+      "acces": "Accès par le chemin de la Châtaigneraie (Vaulnaveys-le-Bas). Quartier résidentiel : se garer plus bas et monter à pied.",
+      "warn": "Probablement en partie privé : ne ramassez que le long des chemins publics.",
+      "sources": [
+        { "kind": "osm", "label": "OpenStreetMap — toponyme « Chemin de la Châtaigneraie »", "url": "https://www.openstreetmap.org/way/104973110", "date": "" },
+        { "kind": "rando", "label": "Visorando — Boucle entre Vizille et Vaulnaveys", "url": "https://www.visorando.com/randonnee-boucle-entre-vizille-et-vaulnaveys/", "date": "2026", "noChestnut": true }
+      ]
+    },
+    {
+      "id": "montmayeur",
+      "type": "spot",
+      "name": "Châtaigneraies de Presle & tours de Montmayeur",
+      "commune": "Presle / Détrier (Savoie)",
+      "lat": 45.4478, "lon": 6.1344, "precision": "zone",
+      "desc": "Grand peuplement de châtaigniers purs (140 ha IGN) sur le versant savoyard au-dessus de La Rochette, à 35 min de Meylan. Un randonneur du circuit des tours de Montmayeur en a « profité pour ramasser quelques châtaignes ».",
+      "acces": "Départ du circuit des tours de Montmayeur à Détrier (18 km, ou version courte jusqu'aux tours).\nLes routes « des Châtaigniers » / « de la Châtaigneraie » de La Chapelle-du-Bard et Presle mènent au bas du peuplement.",
+      "sources": [
+        { "kind": "rando", "label": "Visorando — Circuit des tours de Montmayeur (avis)", "url": "https://www.visorando.com/randonnee-circuit-des-tours-de-montmayeur/", "date": "2016-2025", "quote": "J'en ai profité pour ramasser quelques châtaignes" },
+        { "kind": "osm", "label": "OpenStreetMap — route de la Châtaigneraie, impasse des Châtaigniers", "url": "https://www.openstreetmap.org/way/213905452", "date": "" }
+      ]
+    },
+    {
+      "id": "cheylas",
+      "type": "spot",
+      "name": "Versant boisé au-dessus du Cheylas",
+      "commune": "Le Cheylas / Pontcharra",
+      "lat": 45.3953, "lon": 6.0259, "precision": "zone",
+      "desc": "Peuplement de châtaigniers purs de 105 ha (IGN) sur le versant de Belledonne entre Le Cheylas et Pontcharra. Aucun témoignage trouvé : zone à explorer.",
+      "acces": "Utiliser la carte « Sentiers balisés » pour repérer les chemins qui montent du Cheylas / de Pontcharra ; les parkings proches sont affichés.",
+      "sources": []
+    },
+    {
+      "id": "vouillants",
+      "type": "spot",
+      "name": "Les Vouillants (désert de Jean-Jacques Rousseau)",
+      "commune": "Fontaine / Seyssinet-Pariset",
+      "lat": 45.1830, "lon": 5.6740, "precision": "approx",
+      "desc": "Hors secteur Est mais à 20 min : balade presque plate, idéale avec enfants. Châtaigniers le long du chemin entre le pré Faure et le désert de J.-J. Rousseau.",
+      "acces": "Route de Saint-Nizier (D106b) au-dessus de Seyssinet : après la première grande épingle, 2e parking sur la droite (face à Beauregard).\nAu bout du pré Faure, prendre le chemin à droite vers le désert de J.-J. Rousseau.",
+      "sources": [
+        { "kind": "temoignage", "label": "Mômes à Grenoble — balade aux Vouillants", "url": "http://momagrenoble.blogspot.com/2009/09/balade-aux-vouillants-le-desert-de-jj.html", "date": "2009" }
+      ]
+    },
+    {
+      "id": "vif",
+      "type": "spot",
+      "name": "Chemin des Châtaigniers",
+      "commune": "Vif",
+      "lat": 45.0675, "lon": 5.7305, "precision": "approx",
+      "desc": "Sentier nommé « Chemin des Châtaigniers » et poteau de randonnée « Châtaignier » sur les hauteurs de Vif. Indice uniquement toponymique.",
+      "acces": "Rejoindre le poteau « Châtaignier » par le chemin des Châtaigniers (piste puis sentier).",
+      "sources": [
+        { "kind": "osm", "label": "OpenStreetMap — chemin des Châtaigniers + poteau « Châtaignier »", "url": "https://www.openstreetmap.org/node/1426130326", "date": "" }
+      ]
+    },
+    {
+      "id": "nd-mesage",
+      "type": "spot",
+      "name": "Poteau « Le Châtaignier »",
+      "commune": "Notre-Dame-de-Mésage",
+      "lat": 45.04321, "lon": 5.78821, "precision": "exact",
+      "desc": "Poteau de randonnée nommé « Le Châtaignier » au-dessus de la vallée de la Romanche. Indice toponymique seulement.",
+      "acces": "Accessible par les sentiers balisés de Notre-Dame-de-Mésage.",
+      "sources": [
+        { "kind": "osm", "label": "OpenStreetMap — poteau « Le Châtaignier »", "url": "https://www.openstreetmap.org/node/9738971841", "date": "" }
+      ]
+    },
+    {
+      "id": "pinet",
+      "type": "arbre",
+      "name": "Châtaignier du Pinet d'Uriage",
+      "commune": "Saint-Martin-d'Uriage",
+      "lat": 45.15597, "lon": 5.85784, "precision": "exact",
+      "desc": "Châtaignier greffé de 6,50 m de circonférence, estimé à 250–300 ans, seul dans un pré. Un monument, pas un spot de cueillette.",
+      "acces": "Suivre la direction du camping du Buisson à la sortie de Saint-Martin-d'Uriage.",
+      "warn": "Terrain privé : demander l'autorisation aux gérants du camping avant d'approcher. Ne pas ramasser.",
+      "sources": [
+        { "kind": "temoignage", "label": "Krapo arboricole — Le châtaignier du Pinet d'Uriage", "url": "https://krapooarboricole.wordpress.com/2011/05/12/le-chataignier-du-pinet-d%E2%80%99uriage-isere/", "date": "2011" },
+        { "kind": "osm", "label": "OpenStreetMap — arbre remarquable", "url": "https://www.openstreetmap.org/node/10770855530", "date": "" }
+      ]
+    },
+    {
+      "id": "arbre-uriage-2",
+      "type": "arbre",
+      "name": "Vieux châtaignier (5,1 m de tour)",
+      "commune": "Saint-Martin-d'Uriage",
+      "lat": 45.15765, "lon": 5.84083, "precision": "exact",
+      "desc": "Châtaignier classé « monument naturel » dans OpenStreetMap, 5,10 m de circonférence.",
+      "acces": "Visible depuis les chemins voisins ; ne pas entrer dans les propriétés.",
+      "sources": [
+        { "kind": "osm", "label": "OpenStreetMap — arbre remarquable", "url": "https://www.openstreetmap.org/node/10769667448", "date": "" }
+      ]
+    },
+    {
+      "id": "laval-verchere",
+      "type": "attention",
+      "name": "Châtaigneraies cultivées de Laval",
+      "commune": "Laval-en-Belledonne",
+      "lat": 45.24281, "lon": 5.96484, "precision": "approx",
+      "desc": "Une ferme bio réhabilite d'anciennes châtaigneraies familiales vers 900 m (hameau de Vaugelas) : ce sont des vergers privés. Bon plan à la place : vente directe de châtaignes et crème de marrons.",
+      "warn": "Vergers privés : ne pas ramasser. Un sol fauché, des arbres alignés ou des filets = châtaigneraie exploitée.",
+      "sources": [
+        { "kind": "officiel", "label": "AMAP AURA — Ferme d'Aude Verchère (Belledonne)", "url": "https://amap-aura.org/ferme-daude-verchere-belledonne-chataignes/", "date": "" }
+      ]
+    }
+  ],
+  "parkings": [
+    { "id": "p-murier", "name": "Parking du fort du Mûrier", "lat": 45.1725, "lon": 5.7848, "for": "murier", "source": "Chloé Clafoutis / Decathlon Outdoor" },
+    { "id": "p-jarrie", "name": "Parking de l'étang de Haute-Jarrie", "lat": 45.119144, "lon": 5.745239, "for": "haute-jarrie", "source": "Visorando (point de départ)" },
+    { "id": "p-eybens", "name": "Parking de l'église d'Eybens", "lat": 45.147547, "lon": 5.751684, "for": "eybens-arcelles", "source": "Visorando (point de départ)" },
+    { "id": "p-herbeys", "name": "Aire route de la Côte (Herbeys)", "lat": 45.150459, "lon": 5.795914, "for": "herbeys-fournet", "source": "Visorando (point de départ)" },
+    { "id": "p-murianette", "name": "Parking sous la mairie de Murianette", "lat": 45.190944, "lon": 5.818673, "for": "combeloup", "source": "Grenoble Tourisme (point de départ)" },
+    { "id": "p-vouillants", "name": "Parking des Vouillants (D106b)", "lat": 45.1810, "lon": 5.6790, "for": "vouillants", "source": "Mômes à Grenoble", "approx": true }
+  ]
+}

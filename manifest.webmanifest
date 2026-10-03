@@ -1,0 +1,9 @@
+{
+  "name": "ChâtaignFinder — châtaignes autour de Grenoble",
+  "short_name": "ChâtaignFinder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf4e6",
+  "theme_color": "#7a3e1d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
