@@ -161,7 +161,11 @@ input[type=radio], input[type=checkbox] { accent-color: var(--rust); width: 17px
   width: 22px; height: 22px; border-radius: 6px; background: var(--sky); color: #fff; font-weight: 800; font-size: 13px;
   display: inline-grid; place-items: center; border: 2px solid #fff; box-shadow: 0 1px 4px rgba(0,0,0,.35);
 }
-.pk.low { opacity: .8; }
+.pk.prob { background: #fffaf1; color: var(--sky); border: 2px dashed var(--sky); font-size: 11px; box-shadow: 0 1px 3px rgba(0,0,0,.2); }
+.pk.ok { background: var(--moss); }
+.btn.ok { color: var(--moss); }
+.box.verif { border-left: 4px solid var(--sky); }
+.box.verif .actions { margin: 8px 0 4px; }
 .pk.sel { outline: 3px solid var(--amber); }
 .pk.warn { background: #a3261b; }
 .me-dot { width: 16px; height: 16px; border-radius: 50%; background: #2f7fd8; border: 3px solid #fff; box-shadow: 0 0 0 6px rgba(47,127,216,.25); }

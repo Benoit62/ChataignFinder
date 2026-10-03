@@ -7,6 +7,18 @@
     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-FORET"
    },
    {
+    "label": "IGN — BD TOPO (parkings)",
+    "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+   },
+   {
+    "label": "Visorando (fiches et points de départ des randos)",
+    "url": "https://www.visorando.com"
+   },
+   {
+    "label": "Reddit r/Grenoble « Spot à châtaignes » (u/LeCardinal)",
+    "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/"
+   },
+   {
     "label": "Forum Skipass « Des petits coins à châtaignes ? »",
     "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html"
    },
@@ -19,60 +31,28 @@
     "url": "https://www.decathlon-outdoor.com/fr-fr/explore/france/boucle-du-murier-et-panoramas-a-couper-le-souffle-5fde1d68a8e48"
    },
    {
-    "label": "Visorando — Une boucle des Arcelles au départ d'Eybens",
-    "url": "https://www.visorando.com/randonnee-la-boucle-des-arcelles-au-depart-d-eyben/"
-   },
-   {
     "label": "Grenoble Tourisme — À la découverte des Arcelles",
     "url": "https://www.grenoble-tourisme.com/en/catalog/detail/a-la-decouverte-des-arcelles-10338/"
-   },
-   {
-    "label": "Qcunbon Grenoble (cite la Frange verte d'Échirolles)",
-    "url": "https://www.qcunbon.fr/grenoble/12502925"
-   },
-   {
-    "label": "Visorando — L'étang et la forêt de Haute Jarrie",
-    "url": "https://www.visorando.com/randonnee-l-etang-et-la-foret-de-haute-jarrie/"
    },
    {
     "label": "Grenoble Tourisme / Alpes Isère — balade nature Haute-Jarrie",
     "url": "https://www.echosciences-grenoble.fr/evenements/jarrie-balade-nature"
    },
    {
-    "label": "Visorando — Sur les hauteurs d'Herbeys",
-    "url": "https://www.visorando.com/randonnee-sur-les-hauteurs-d-herbeys/"
+    "label": "Qcunbon Grenoble (cite Champagnier)",
+    "url": "https://www.qcunbon.fr/grenoble/12502925"
    },
    {
     "label": "Grenoble Tourisme — La forêt de Combeloup depuis Murianette (infos d'accès)",
     "url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/murianette-2991146/la-foret-de-combeloup-depuis-murianette-5587130/"
    },
    {
-    "label": "Visorando — Le col de la Cochette en boucle par la crête (infos d'accès)",
-    "url": "https://www.visorando.com/randonnee-le-col-de-la-cochette-en-boucle-par-la-c/"
-   },
-   {
     "label": "AllTrails — Domène et Le Versoud (infos d'accès)",
     "url": "https://www.alltrails.com/trail/france/isere/domene-et-le-versoud"
    },
    {
-    "label": "Visorando — Croix de Révollat depuis Saint-Mury-Monteymond",
-    "url": "https://www.visorando.com/randonnee-croix-de-revollat-depuis-saint-mury-mont/"
-   },
-   {
-    "label": "Visorando — Boucle par les hameaux de Sollières et Ruche",
-    "url": "https://www.visorando.com/randonnee-boucle-par-les-hameaux-de-sollieres-et-r/"
-   },
-   {
     "label": "Decathlon Outdoor — Entre Belmont et les Seiglières en forêt",
     "url": "https://www.decathlon-outdoor.com/fr-fr/explore/france/entre-belmont-et-les-seiglieres-en-foret-653a8762db858"
-   },
-   {
-    "label": "Visorando — Boucle entre Vizille et Vaulnaveys (infos d'accès)",
-    "url": "https://www.visorando.com/randonnee-boucle-entre-vizille-et-vaulnaveys/"
-   },
-   {
-    "label": "Visorando — Circuit des tours de Montmayeur (avis)",
-    "url": "https://www.visorando.com/randonnee-circuit-des-tours-de-montmayeur/"
    },
    {
     "label": "Mômes à Grenoble — balade aux Vouillants",
@@ -87,7 +67,7 @@
     "url": "https://amap-aura.org/ferme-daude-verchere-belledonne-chataignes/"
    },
    {
-    "label": "OpenStreetMap (parkings, arbres, toponymes)",
+    "label": "OpenStreetMap (parkings, sentiers, arbres, toponymes)",
     "url": "https://www.openstreetmap.org"
    }
   ]
@@ -103,6 +83,12 @@
    "desc": "Colline boisée à 10 min de Grenoble, forêt dense avec beaucoup de châtaigniers autour du fort et sur le versant Gières/Venon. Spot très connu et très fréquenté : châtaignes souvent petites, il faut s'éloigner des chemins principaux.",
    "acces": "Grand parking presque en face du fort du Mûrier (route du Mûrier depuis Gières).\nAlternative : se garer route de Villeneuve (passer le fort à gauche et le parc à droite, puis tourner à gauche).\nBoucle facile autour du fort, puis descendre côté Venon/Gières où sont les plus grands peuplements IGN.",
    "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "sur la route vers les quatre seigneurs le fort du mûrier",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/LeCardinal)"
+    },
     {
      "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html",
      "date": "2006",
@@ -121,8 +107,8 @@
     }
    ],
    "bdforet": 0,
-   "conf": 4,
-   "why": "1 source cite des châtaignes (+1); 1 source(s) indépendante(s) en plus (+0,5); dans un peuplement IGN de châtaigniers purs (+2); emplacement approximatif (−0,5)"
+   "conf": 5,
+   "why": "1 source cite des châtaignes (+1); 2 source(s) indépendante(s) en plus (+1); témoignage récent (+0,5); dans un peuplement IGN de châtaigniers purs (+2); emplacement approximatif (−0,5)"
   },
   {
    "id": "eybens-arcelles",
@@ -146,9 +132,10 @@
      "label": "Grenoble Tourisme — À la découverte des Arcelles"
     },
     {
-     "url": "https://www.qcunbon.fr/grenoble/12502925",
-     "date": "2015",
-     "label": "Qcunbon Grenoble (cite la Frange verte d'Échirolles)"
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "Tu pars du centre d'Eybens direction la forêt et tu en auras plein",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/Wildosaur)"
     }
    ],
    "bdforet": 0,
@@ -194,11 +181,11 @@
   {
    "id": "herbeys-fournet",
    "type": "spot",
-   "name": "Hauteurs d'Herbeys — sentier du Fournet",
-   "commune": "Herbeys",
+   "name": "Col des Quatre Seigneurs & sentier du Fournet",
+   "commune": "Herbeys / Eybens",
    "lat": 45.1545,
    "lon": 5.7985,
-   "desc": "Sur la boucle « Sur les hauteurs d'Herbeys », le tronçon qui monte vers le Fournet (entre les points 3 et 4 du topo, ~810 → 860 m) est cité pour ses châtaignes fin octobre.",
+   "desc": "Entre le col des Quatre Seigneurs et le sommet du Fournet. Un fil Reddit cite les bords de la route qui monte aux Quatre Seigneurs depuis le Mûrier. Sur la boucle « Sur les hauteurs d'Herbeys », le tronçon vers le Fournet (points 3 → 4 du topo, ~810 → 860 m) est signalé pour ses châtaignes fin octobre.",
    "acces": "Petit parking route de la Côte en montant (719 m), juste après un châtaignier sur la gauche, au niveau du chemin de la Vie.\nBoucle de 4,2 km : prendre à droite vers le Fournet au point 3.",
    "sources": [
     {
@@ -206,11 +193,17 @@
      "date": "2026",
      "quote": "vous trouverez sur ce tronçon des châtaignes fin octobre",
      "label": "Visorando — Sur les hauteurs d'Herbeys"
+    },
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "sur la route vers les quatre seigneurs le fort du mûrier",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/LeCardinal)"
     }
    ],
    "bdforet": 1078,
-   "conf": 3,
-   "why": "1 source cite des châtaignes (+1); témoignage récent (+0,5); peuplement IGN à 1.1 km (+0,5)"
+   "conf": 4,
+   "why": "1 source cite des châtaignes (+1); 1 source(s) indépendante(s) en plus (+0,5); témoignage récent (+0,5); peuplement IGN à 1,1 km (+0,5)"
   },
   {
    "id": "combeloup",
@@ -385,14 +378,20 @@
   {
    "id": "vaulnaveys-chataigneraie",
    "type": "spot",
-   "name": "Chemin de la Châtaigneraie",
+   "name": "Route de Montchaffrey & chemin de la Châtaigneraie",
    "commune": "Vaulnaveys-le-Bas",
-   "lat": 45.1034,
-   "lon": 5.811,
-   "desc": "Petit peuplement de châtaigniers purs (8 ha IGN) au bout d'un chemin nommé… « de la Châtaigneraie ». La boucle Vizille – Vaulnaveys passe à côté. Aucun témoignage : à vérifier.",
-   "acces": "Accès par le chemin de la Châtaigneraie (Vaulnaveys-le-Bas). Quartier résidentiel : se garer plus bas et monter à pied.",
+   "lat": 45.105,
+   "lon": 5.815,
+   "desc": "Petit peuplement de châtaigniers purs (8 ha IGN) entre le chemin de la Châtaigneraie et la route qui monte au hameau de Montchaffrey. Sur Reddit : « le long de la route qui monte à Montchaffey y en a des grosses ».",
+   "acces": "Route de Montchaffrey depuis Vaulnaveys-le-Bas : se garer au hameau de Montchaffrey (arrêt de bus) ou en bas, puis longer la route à pied.\nChemin de la Châtaigneraie : quartier résidentiel, se garer plus bas.",
    "warn": "Probablement en partie privé : ne ramassez que le long des chemins publics.",
    "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "Le long de la route qui monte à Montchaffey y en a des grosses.",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/Hperge)"
+    },
     {
      "url": "https://www.openstreetmap.org/way/104973110",
      "date": "",
@@ -404,9 +403,9 @@
      "label": "Visorando — Boucle entre Vizille et Vaulnaveys (infos d'accès)"
     }
    ],
-   "bdforet": 0,
+   "bdforet": 212,
    "conf": 3,
-   "why": "indice OpenStreetMap (+0,5); dans un peuplement IGN de châtaigniers purs (+2); emplacement approximatif (−0,5)"
+   "why": "1 source cite des châtaignes (+1); témoignage récent (+0,5); peuplement IGN à 212 m (+1); emplacement approximatif (−0,5)"
   },
   {
    "id": "montmayeur",
@@ -575,38 +574,2503 @@
    "why": "1 source cite des châtaignes (+1); emplacement approximatif (−0,5)"
   },
   {
-   "id": "p-murier",
+   "id": "tour-hertzienne",
+   "type": "spot",
+   "name": "Autour de la tour hertzienne d'Eybens",
+   "commune": "Eybens / Herbeys",
+   "lat": 45.1395,
+   "lon": 5.7625,
+   "desc": "Sur les hauteurs au-dessus d'Eybens, juste au sud de la forêt des Arcelles. Sur Reddit, quelqu'un a vu des châtaignes autour de la tour hertzienne (et en a même « reçu sur la tête »).",
+   "acces": "Monter depuis le centre d'Eybens par la forêt des Arcelles (parking de l'église), ou par la route du Mûrier / des Quatre Seigneurs.",
+   "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "je confirme en avoir vu (et reçu sur la tête)",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/DracoInferno_)"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/8786425650",
+     "date": "",
+     "label": "OpenStreetMap — tours de télécommunication"
+    }
+   ],
+   "bdforet": 210,
+   "conf": 3,
+   "why": "1 source cite des châtaignes (+1); témoignage récent (+0,5); peuplement IGN à 210 m (+1); emplacement approximatif (−0,5)"
+  },
+  {
+   "id": "venon-pressembois",
+   "type": "spot",
+   "name": "Forêt sous le chêne de Pressembois (« chêne de Venon »)",
+   "commune": "Venon / Gières",
+   "lat": 45.18,
+   "lon": 5.808,
+   "desc": "Le grand chêne isolé de Pressembois, au-dessus de Gières, domine un peuplement de châtaigniers purs de 120 ha. Sur Reddit : « la forêt sous le chêne… c'était un tapis »  à la mi-saison.",
+   "acces": "Depuis Gières ou Venon, rejoindre le chemin de Côte Belle / Pressembois. La boucle de Combeloup au départ de Murianette passe aussi en vue du chêne.\nLes prés autour du chêne sont privés : ramasser en forêt, sur les chemins.",
+   "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "La forêt sous le chêne de Vernon c'était un tapis",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/Jeroboamee)"
+    },
+    {
+     "url": "https://www.openstreetmap.org/search?query=Ch%C3%AAne%20de%20Pressembois",
+     "date": "",
+     "label": "OpenStreetMap — Chêne de Pressembois"
+    }
+   ],
+   "bdforet": 0,
+   "conf": 4,
+   "why": "1 source cite des châtaignes (+1); témoignage récent (+0,5); dans un peuplement IGN de châtaigniers purs (+2); emplacement approximatif (−0,5)"
+  },
+  {
+   "id": "frange-verte",
+   "type": "spot",
+   "name": "Frange verte d'Échirolles",
+   "commune": "Échirolles / Jarrie",
+   "lat": 45.1398,
+   "lon": 5.7275,
+   "desc": "La colline boisée au sud d'Échirolles (parcours de santé de la Frange verte) est le bord nord du grand massif de châtaigniers de Champagnier / Haute-Jarrie. Sur Reddit : « les chemins des randonnées sont pleins ».",
+   "acces": "Départ de la Frange verte côté Échirolles, puis sentiers balisés vers les Hauts de Jarrie et retour par la voie romaine (8 km).",
+   "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "La frange verte, Echirolles Les chemins des randonnées sont pleines",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/Haunting_Cover_513)"
+    },
+    {
+     "url": "https://www.qcunbon.fr/grenoble/12502925",
+     "date": "2015",
+     "label": "Qcunbon Grenoble (cite la « Franche verte » d'Échirolles)"
+    },
+    {
+     "url": "https://www.visorando.com/randonnee-de-la-frange-verte-vers-les-hauts-de-jar/",
+     "date": "",
+     "label": "Visorando — De la Frange Verte vers les Hauts de Jarrie (infos d'accès)"
+    }
+   ],
+   "bdforet": 0,
+   "conf": 5,
+   "why": "1 source cite des châtaignes (+1); 1 source(s) indépendante(s) en plus (+0,5); témoignage récent (+0,5); dans un peuplement IGN de châtaigniers purs (+2); emplacement approximatif (−0,5)"
+  },
+  {
+   "id": "estacade",
+   "type": "achat",
+   "name": "Marché de l'Estacade",
+   "commune": "Grenoble",
+   "lat": 45.18548,
+   "lon": 5.71698,
+   "desc": "Plan B si la récolte est maigre : en 2024, un jeune producteur ardéchois y était présent tous les week-ends jusqu'à fin novembre (5,80 €/kg, 3,80 € pour les petites, et des bocaux). Marché du mardi au dimanche, 7 h – 13 h.",
+   "sources": [
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "sera présent tous les week-ends jusqu'à fin novembre",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/colargol38)"
+    }
+   ],
+   "bdforet": 4760,
+   "conf": 3,
+   "why": "information de témoignage (prix et présence à revérifier chaque saison)"
+  },
+  {
+   "id": "pk-45.13766-5.74748",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.137664,
+   "lon": 5.747481,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 67,
+   "desc": "Châtaigniers IGN à 67 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/node/2686489658"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/263015594"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/743370108"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/743377230"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1060354235"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1060354236"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1110792710"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1112850095"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13538-5.74778",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.135379,
+   "lon": 5.747776,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 9,
+   "desc": "Châtaigniers IGN à 9 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/node/2769737099"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.49359-5.68245",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.493588,
+   "lon": 5.682447,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 3,
+   "bdforet": 137,
+   "desc": "Châtaigniers IGN à 137 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/node/3693093254"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/365282117"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.21458-5.86266",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.214579,
+   "lon": 5.862662,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 69,
+   "desc": "Châtaigniers IGN à 69 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/node/5595275683"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/node/5595275688"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/574790301"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/585516583"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/585516584"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1531272416"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.06914-5.73193",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.069141,
+   "lon": 5.731928,
+   "commune": "Champ-sur-Drac",
+   "conf": 3,
+   "bdforet": 6250,
+   "desc": "Châtaigniers IGN à 6250 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/node/13037914041"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/node/13037914042"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/686726366"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.36998-5.61056",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.369976,
+   "lon": 5.610557,
+   "commune": "Coublevie",
+   "conf": 3,
+   "bdforet": 177,
+   "desc": "Châtaigniers IGN à 177 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public en terre",
+     "url": "https://www.openstreetmap.org/node/14138536704"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13748-5.74165",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.137479,
+   "lon": 5.741651,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 76,
+   "desc": "Châtaigniers IGN à 76 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/4231072"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13636-5.75071",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.13636,
+   "lon": 5.750706,
+   "commune": "Bresson",
+   "conf": 4,
+   "bdforet": 206,
+   "desc": "Châtaigniers IGN à 206 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/4231106"
+    },
+    {
+     "label": "OpenStreetMap — parking public en terre",
+     "url": "https://www.openstreetmap.org/way/963214522"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.21609-5.86265",
+   "type": "parking",
+   "name": "Place de la Liberté",
+   "lat": 45.216092,
+   "lon": 5.862646,
+   "commune": "Le Versoud",
+   "conf": 4,
+   "bdforet": 233,
+   "desc": "Châtaigniers IGN à 233 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/23204783"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.14779-5.75157",
+   "type": "parking",
+   "name": "Parking de l'église d'Eybens",
+   "lat": 45.147786,
+   "lon": 5.751573,
+   "commune": "Eybens",
+   "conf": 5,
+   "bdforet": 200,
+   "desc": "Parking cité comme point de départ pour « Forêt des Arcelles & belvédère du Sabot ». Châtaigniers IGN à 200 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 74 places",
+     "url": "https://www.openstreetmap.org/way/31899027"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 14 places",
+     "url": "https://www.openstreetmap.org/way/104008748"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/574379459"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/574379461"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1443884325"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1443898741"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1443898742"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1443898756"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 8 places",
+     "url": "https://www.openstreetmap.org/way/1443898757"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "Visorando — départ de « Eybens - Vizille »",
+     "url": "https://www.visorando.com/randonnee-eybens-vizille/"
+    },
+    {
+     "label": "Visorando — départ de « Une boucle des Arcelles au départ d'Eybens »",
+     "url": "https://www.visorando.com/randonnee-la-boucle-des-arcelles-au-depart-d-eyben/"
+    },
+    {
+     "label": "Visorando (point de départ)"
+    },
+    {
+     "url": "https://www.visorando.com/randonnee-la-boucle-des-arcelles-au-depart-d-eyben/",
+     "date": "2023",
+     "quote": "découvrir la forêt de châtaigniers dominant le gros bourg d'Eybens",
+     "label": "Visorando — Une boucle des Arcelles au départ d'Eybens"
+    }
+   ],
+   "why": "sources : cité par une source, OpenStreetMap, IGN BD TOPO, départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.14682-5.75458",
+   "type": "parking",
+   "name": "P+R Le Verderet",
+   "lat": 45.146816,
+   "lon": 5.754577,
+   "commune": "Eybens",
+   "conf": 4,
+   "bdforet": 114,
+   "desc": "Châtaigniers IGN à 114 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 7 places",
+     "url": "https://www.openstreetmap.org/way/40469129"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 40 places",
+     "url": "https://www.openstreetmap.org/way/42353129"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 40 places",
+     "url": "https://www.openstreetmap.org/way/168097630"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1443884323"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1443884324"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1443898758"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 7 places",
+     "url": "https://www.openstreetmap.org/way/1443898759"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 8 places",
+     "url": "https://www.openstreetmap.org/way/1443898760"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "Visorando — départ de « Belvédères des Civières et du Gourlu depuis Eybens »",
+     "url": "https://www.visorando.com/randonnee-belvederes-des-civieres-et-du-gourlu-dep/"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO, départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.14714-5.74990",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.147136,
+   "lon": 5.749901,
+   "commune": "Eybens",
+   "conf": 4,
+   "bdforet": 232,
+   "desc": "Châtaigniers IGN à 232 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 24 places",
+     "url": "https://www.openstreetmap.org/way/40503356"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1443884329"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 9 places",
+     "url": "https://www.openstreetmap.org/way/1443884331"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.18150-5.67178",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.181496,
+   "lon": 5.67178,
+   "commune": "Seyssinet-Pariset",
+   "conf": 4,
+   "bdforet": 6119,
+   "desc": "Parking de départ de sentier selon l'IGN. Châtaigniers IGN à 6119 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public en terre",
+     "url": "https://www.openstreetmap.org/way/42767618"
+    },
+    {
+     "label": "OpenStreetMap — parking public en terre",
+     "url": "https://www.openstreetmap.org/way/42767686"
+    },
+    {
+     "label": "IGN BD TOPO — parking touristique isolé (départ de sentier)",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.17347-5.78111",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.173473,
+   "lon": 5.78111,
+   "commune": "Saint-Martin-d'Hères",
+   "conf": 4,
+   "bdforet": 28,
+   "desc": "Châtaigniers IGN à 28 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public en terre",
+     "url": "https://www.openstreetmap.org/way/49180960"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.19148-5.81652",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.191482,
+   "lon": 5.816518,
+   "commune": "Murianette",
+   "conf": 3,
+   "bdforet": 235,
+   "desc": "Châtaigniers IGN à 235 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 38 places",
+     "url": "https://www.openstreetmap.org/way/60922906"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.18277-5.79401",
+   "type": "parking",
+   "name": "Parking Jean Jaurès",
+   "lat": 45.182774,
+   "lon": 5.794009,
+   "commune": "Gières",
+   "conf": 4,
+   "bdforet": 86,
+   "desc": "Châtaigniers IGN à 86 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/60930026"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1056008697"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.18769-5.80801",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.187692,
+   "lon": 5.808011,
+   "commune": "Gières",
+   "conf": 3,
+   "bdforet": 141,
+   "desc": "Châtaigniers IGN à 141 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/60930067"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.18114-5.79114",
+   "type": "parking",
+   "name": "Le Laussy",
+   "lat": 45.181144,
+   "lon": 5.791141,
+   "commune": "Gières",
+   "conf": 4,
+   "bdforet": 194,
+   "desc": "Châtaigniers IGN à 194 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/99370835"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/99370841"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/314939239"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/314939240"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/314939241"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/698614664"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.19909-5.83315",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.199086,
+   "lon": 5.833154,
+   "commune": "Domène",
+   "conf": 3,
+   "bdforet": 177,
+   "desc": "Châtaigniers IGN à 177 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/107994094"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/584887479"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.19706-5.82849",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.197064,
+   "lon": 5.828492,
+   "commune": "Domène",
+   "conf": 4,
+   "bdforet": 241,
+   "desc": "Châtaigniers IGN à 241 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/107995667"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/741288758"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.20283-5.83861",
+   "type": "parking",
+   "name": "Place Compagnie Stéphane",
+   "lat": 45.202828,
+   "lon": 5.83861,
+   "commune": "Domène",
+   "conf": 4,
+   "bdforet": 200,
+   "desc": "Châtaigniers IGN à 200 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 159 places",
+     "url": "https://www.openstreetmap.org/way/108000740"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1057172946"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.13955-5.72132",
+   "type": "parking",
+   "name": "Départ de la Frange verte (Échirolles)",
+   "lat": 45.139549,
+   "lon": 5.721322,
+   "commune": "Échirolles / Jarrie",
+   "conf": 5,
+   "bdforet": 88,
+   "desc": "Parking cité comme point de départ pour « Frange verte d'Échirolles ». Châtaigniers IGN à 88 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 19 places",
+     "url": "https://www.openstreetmap.org/way/113138459"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 23 places",
+     "url": "https://www.openstreetmap.org/way/162291825"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440442"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440448"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440449"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1474440450"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440451"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440575"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440576"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440997"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1476541130"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476541131"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1476541132"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476541134"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "Visorando — départ de « De la Frange Verte vers les Hauts de Jarrie, retour par la Voie Romaine »",
+     "url": "https://www.visorando.com/randonnee-de-la-frange-verte-vers-les-hauts-de-jar/"
+    },
+    {
+     "label": "Visorando (point de départ)"
+    },
+    {
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "La frange verte, Echirolles Les chemins des randonnées sont pleines",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/Haunting_Cover_513)"
+    }
+   ],
+   "why": "sources : cité par une source, OpenStreetMap, IGN BD TOPO, départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.06923-5.73387",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.069227,
+   "lon": 5.733871,
+   "commune": "Champ-sur-Drac",
+   "conf": 3,
+   "bdforet": 6250,
+   "desc": "Châtaigniers IGN à 6250 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/127980930"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.24467-5.89638",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.244675,
+   "lon": 5.89638,
+   "commune": "Villard-Bonnot",
+   "conf": 4,
+   "bdforet": 61,
+   "desc": "Châtaigniers IGN à 61 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/151050467"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.44306-6.12281",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.443058,
+   "lon": 6.12281,
+   "commune": "Arvillard",
+   "conf": 4,
+   "bdforet": 84,
+   "desc": "Châtaigniers IGN à 84 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/182943395"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.45361-6.13808",
+   "type": "parking",
+   "name": "Place des Petits Prés",
+   "lat": 45.453613,
+   "lon": 6.138085,
+   "commune": "Presle",
+   "conf": 3,
+   "bdforet": 117,
+   "desc": "Châtaigniers IGN à 117 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/208575393"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.48799-5.64711",
+   "type": "parking",
+   "name": "Place de la Mairie",
+   "lat": 45.487986,
+   "lon": 5.647106,
+   "commune": "Velanne",
+   "conf": 3,
+   "bdforet": 136,
+   "desc": "Châtaigniers IGN à 136 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/218479481"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1458974390"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.20164-5.83803",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.201643,
+   "lon": 5.838027,
+   "commune": "Domène",
+   "conf": 3,
+   "bdforet": 143,
+   "desc": "Châtaigniers IGN à 143 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/252422290"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.44008-6.13996",
+   "type": "parking",
+   "name": "Place de l'Ancienne École",
+   "lat": 45.440077,
+   "lon": 6.139965,
+   "commune": "Arvillard",
+   "conf": 4,
+   "bdforet": 77,
+   "desc": "Châtaigniers IGN à 77 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/294785322"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.20120-5.84047",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.201198,
+   "lon": 5.840473,
+   "commune": "Domène",
+   "conf": 4,
+   "bdforet": 42,
+   "desc": "Châtaigniers IGN à 42 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/323856011"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/584887478"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.49313-5.67957",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.49313,
+   "lon": 5.679575,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 3,
+   "bdforet": 71,
+   "desc": "Châtaigniers IGN à 71 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/365518975"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.49455-5.67854",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.494552,
+   "lon": 5.678538,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 3,
+   "bdforet": 222,
+   "desc": "Châtaigniers IGN à 222 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/365518976"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.27748-5.96555",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.277481,
+   "lon": 5.965554,
+   "commune": "Hurtières",
+   "conf": 3,
+   "bdforet": 6411,
+   "desc": "Châtaigniers IGN à 6411 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/425728330"
+    },
+    {
+     "label": "Visorando — départ de « Petit tour de Bel aux Airs »",
+     "url": "https://www.visorando.com/randonnee-petit-tour-de-bel-aux-airs/"
+    }
+   ],
+   "why": "sources : OpenStreetMap, départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.13757-5.74339",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.137573,
+   "lon": 5.74339,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 97,
+   "desc": "Châtaigniers IGN à 97 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/444765928"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.17108-5.78141",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.171079,
+   "lon": 5.781409,
+   "commune": "Saint-Martin-d'Hères",
+   "conf": 3,
+   "bdforet": 246,
+   "desc": "Châtaigniers IGN à 246 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/477199004"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.21697-5.86505",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.216975,
+   "lon": 5.865046,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 241,
+   "desc": "Châtaigniers IGN à 241 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/574787346"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14555-5.75856",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.145554,
+   "lon": 5.758559,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 181,
+   "desc": "Châtaigniers IGN à 181 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/633685364"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/633685366"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14681-5.75710",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.146809,
+   "lon": 5.757102,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 228,
+   "desc": "Châtaigniers IGN à 228 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/634186796"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14713-5.76181",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.147129,
+   "lon": 5.761808,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 95,
+   "desc": "Châtaigniers IGN à 95 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/634186807"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939561"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939562"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939563"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939564"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939565"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1410939566"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.23543-5.88380",
+   "type": "parking",
+   "name": "Parking du papetier",
+   "lat": 45.235428,
+   "lon": 5.883801,
+   "commune": "Villard-Bonnot",
+   "conf": 4,
+   "bdforet": 232,
+   "desc": "Châtaigniers IGN à 232 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 20 places",
+     "url": "https://www.openstreetmap.org/way/642709888"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 13 places",
+     "url": "https://www.openstreetmap.org/way/642709889"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.23826-5.88930",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.238256,
+   "lon": 5.889299,
+   "commune": "Villard-Bonnot",
+   "conf": 4,
+   "bdforet": 42,
+   "desc": "Châtaigniers IGN à 42 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/645706630"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/991966925"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/991966928"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1457398182"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1457398183"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.18081-5.79343",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.180807,
+   "lon": 5.79343,
+   "commune": "Gières",
+   "conf": 3,
+   "bdforet": 57,
+   "desc": "Châtaigniers IGN à 57 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/655152223"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.17999-5.79140",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.179987,
+   "lon": 5.791398,
+   "commune": "Gières",
+   "conf": 3,
+   "bdforet": 76,
+   "desc": "Châtaigniers IGN à 76 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 12 places",
+     "url": "https://www.openstreetmap.org/way/655152224"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/698614662"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/698614663"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1426441690"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14061-5.72269",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.140607,
+   "lon": 5.722694,
+   "commune": "Échirolles",
+   "conf": 4,
+   "bdforet": 157,
+   "desc": "Châtaigniers IGN à 157 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 27 places",
+     "url": "https://www.openstreetmap.org/way/657386199"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.14133-5.72397",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.141329,
+   "lon": 5.723966,
+   "commune": "Échirolles",
+   "conf": 4,
+   "bdforet": 193,
+   "desc": "Châtaigniers IGN à 193 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 25 places",
+     "url": "https://www.openstreetmap.org/way/657386202"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.14169-5.73746",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.141689,
+   "lon": 5.737457,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 221,
+   "desc": "Châtaigniers IGN à 221 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/692567895"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1307276661"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.20681-5.84710",
+   "type": "parking",
+   "name": "Les Arnauds",
+   "lat": 45.206812,
+   "lon": 5.8471,
+   "commune": "Domène",
+   "conf": 4,
+   "bdforet": 238,
+   "desc": "Châtaigniers IGN à 238 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 41 places",
+     "url": "https://www.openstreetmap.org/way/732076778"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.14511-5.75605",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.145112,
+   "lon": 5.756048,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 31,
+   "desc": "Châtaigniers IGN à 31 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/772673596"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.20964-5.85281",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.20964,
+   "lon": 5.852811,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 147,
+   "desc": "Châtaigniers IGN à 147 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/845836680"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/845836681"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.19174-5.81906",
+   "type": "parking",
+   "name": "Parking sous la mairie de Murianette",
+   "lat": 45.191743,
+   "lon": 5.819055,
+   "commune": "Murianette / Venon",
+   "conf": 5,
+   "bdforet": 190,
+   "desc": "Parking cité comme point de départ pour « Forêt domaniale de Combeloup ». Châtaigniers IGN à 190 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 11 places",
+     "url": "https://www.openstreetmap.org/way/920170226"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 12 places",
+     "url": "https://www.openstreetmap.org/way/920170227"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    },
+    {
+     "label": "Visorando — départ de « La Forêt Domaniale de Combeloup au-dessus de Murianette »",
+     "url": "https://www.visorando.com/randonnee-la-foret-domaniale-de-combeloup-au-dessu/"
+    },
+    {
+     "label": "Grenoble Tourisme (point de départ)"
+    },
+    {
+     "url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/murianette-2991146/la-foret-de-combeloup-depuis-murianette-5587130/",
+     "date": "",
+     "label": "Grenoble Tourisme — La forêt de Combeloup depuis Murianette (infos d'accès)"
+    }
+   ],
+   "why": "sources : cité par une source, OpenStreetMap, IGN BD TOPO, départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.34594-5.63435",
+   "type": "parking",
+   "name": "Gorges du Bret",
+   "lat": 45.345939,
+   "lon": 5.634348,
+   "commune": "La Buisse",
+   "conf": 3,
+   "bdforet": 59,
+   "desc": "Châtaigniers IGN à 59 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1022232311"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14943-5.81661",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.149427,
+   "lon": 5.816607,
+   "commune": "Saint-Martin-d'Uriage",
+   "conf": 3,
+   "bdforet": 123,
+   "desc": "Châtaigniers IGN à 123 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1044487333"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.23887-5.88730",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.238874,
+   "lon": 5.887303,
+   "commune": "Villard-Bonnot",
+   "conf": 3,
+   "bdforet": 206,
+   "desc": "Châtaigniers IGN à 206 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1046414069"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14843-5.75282",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.148428,
+   "lon": 5.752823,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 247,
+   "desc": "Châtaigniers IGN à 247 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 10 places",
+     "url": "https://www.openstreetmap.org/way/1064795933"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14258-5.72584",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.142581,
+   "lon": 5.725842,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 227,
+   "desc": "Châtaigniers IGN à 227 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 16 places",
+     "url": "https://www.openstreetmap.org/way/1064812778"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 8 places",
+     "url": "https://www.openstreetmap.org/way/1449248359"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1476539023"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1476539024"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476539103"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.22467-5.87472",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.224675,
+   "lon": 5.874719,
+   "commune": "Le Versoud",
+   "conf": 4,
+   "bdforet": 152,
+   "desc": "Châtaigniers IGN à 152 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1065901037"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.18591-5.80295",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.185909,
+   "lon": 5.802954,
+   "commune": "Gières",
+   "conf": 3,
+   "bdforet": 193,
+   "desc": "Châtaigniers IGN à 193 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1111414540"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.22620-5.87598",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.226203,
+   "lon": 5.875981,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 198,
+   "desc": "Châtaigniers IGN à 198 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1122075657"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.18196-5.79261",
+   "type": "parking",
+   "name": "Place de la République",
+   "lat": 45.181965,
+   "lon": 5.792605,
+   "commune": "Gières",
+   "conf": 4,
+   "bdforet": 154,
+   "desc": "Châtaigniers IGN à 154 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1160210093"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.13868-5.76267",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.138682,
+   "lon": 5.762668,
+   "commune": "Brié-et-Angonnes",
+   "conf": 3,
+   "bdforet": 292,
+   "desc": "Châtaigniers IGN à 292 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1165428073"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14181-5.73075",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.141808,
+   "lon": 5.730749,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 113,
+   "desc": "Châtaigniers IGN à 113 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1197350735"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1449248347"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1449248348"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1449248350"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1449248351"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1449248368"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1449248369"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 7 places",
+     "url": "https://www.openstreetmap.org/way/1476539054"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 15 places",
+     "url": "https://www.openstreetmap.org/way/1476539055"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1476539056"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 10 places",
+     "url": "https://www.openstreetmap.org/way/1476539057"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476539106"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476539126"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.22328-5.92691",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.223277,
+   "lon": 5.926914,
+   "commune": "Saint-Mury-Monteymond",
+   "conf": 3,
+   "bdforet": 2634,
+   "desc": "Châtaigniers IGN à 2634 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1201786290"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1422862978"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.44245-6.12099",
+   "type": "parking",
+   "name": "Place Saint-Roch",
+   "lat": 45.442446,
+   "lon": 6.120986,
+   "commune": "Arvillard",
+   "conf": 4,
+   "bdforet": 228,
+   "desc": "Châtaigniers IGN à 228 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1255562596"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.21727-5.93033",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.217272,
+   "lon": 5.930327,
+   "commune": "Saint-Mury-Monteymond",
+   "conf": 3,
+   "bdforet": 3117,
+   "desc": "Châtaigniers IGN à 3117 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1272334547"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1422859469"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.22894-5.89445",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.228939,
+   "lon": 5.894446,
+   "commune": "La Combe-de-Lancey",
+   "conf": 3,
+   "bdforet": 42,
+   "desc": "Châtaigniers IGN à 42 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1306928963"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.20035-5.83497",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.20035,
+   "lon": 5.834967,
+   "commune": "Domène",
+   "conf": 4,
+   "bdforet": 200,
+   "desc": "Châtaigniers IGN à 200 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1307314161"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.14551-5.76141",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.145513,
+   "lon": 5.761409,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 10,
+   "desc": "Châtaigniers IGN à 10 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1308426762"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.19573-5.82909",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.195729,
+   "lon": 5.829091,
+   "commune": "Domène",
+   "conf": 3,
+   "bdforet": 107,
+   "desc": "Châtaigniers IGN à 107 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1359805373"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1359805383"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1359805384"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1359805385"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.19163-5.82134",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.191627,
+   "lon": 5.821344,
+   "commune": "Murianette",
+   "conf": 3,
+   "bdforet": 116,
+   "desc": "Châtaigniers IGN à 116 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1382528774"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1382528775"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.18527-5.82336",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.185273,
+   "lon": 5.823357,
+   "commune": "Murianette",
+   "conf": 3,
+   "bdforet": 0,
+   "desc": "Au bord d'une zone de châtaigniers IGN.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1385559744"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.15415-5.80351",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.154155,
+   "lon": 5.803509,
+   "commune": "Herbeys",
+   "conf": 3,
+   "bdforet": 1011,
+   "desc": "Châtaigniers IGN à 1011 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public en terre, 5 places",
+     "url": "https://www.openstreetmap.org/way/1428997172"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.15440-5.80052",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.154403,
+   "lon": 5.800523,
+   "commune": "Herbeys",
+   "conf": 3,
+   "bdforet": 1169,
+   "desc": "Châtaigniers IGN à 1169 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1428997495"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14668-5.75160",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.14668,
+   "lon": 5.7516,
+   "commune": "Eybens",
+   "conf": 3,
+   "bdforet": 96,
+   "desc": "Châtaigniers IGN à 96 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1443898750"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14121-5.73323",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.141207,
+   "lon": 5.733226,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 33,
+   "desc": "Châtaigniers IGN à 33 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1449248346"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14309-5.72813",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.143088,
+   "lon": 5.728128,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 255,
+   "desc": "Châtaigniers IGN à 255 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 18 places",
+     "url": "https://www.openstreetmap.org/way/1449248367"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476538762"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476538764"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 7 places",
+     "url": "https://www.openstreetmap.org/way/1476538765"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.48903-5.64825",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.489026,
+   "lon": 5.648253,
+   "commune": "Velanne",
+   "conf": 3,
+   "bdforet": 198,
+   "desc": "Châtaigniers IGN à 198 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1458974387"
+    },
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1458974392"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14001-5.75042",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.140012,
+   "lon": 5.750422,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 213,
+   "desc": "Châtaigniers IGN à 213 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1473329960"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1473329961"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13833-5.75010",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.138329,
+   "lon": 5.750098,
+   "commune": "Bresson",
+   "conf": 3,
+   "bdforet": 214,
+   "desc": "Châtaigniers IGN à 214 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1473532308"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13724-5.71678",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.137238,
+   "lon": 5.716781,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 239,
+   "desc": "Châtaigniers IGN à 239 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1474440564"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 6 places",
+     "url": "https://www.openstreetmap.org/way/1476529544"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476529545"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13896-5.71850",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.138956,
+   "lon": 5.718498,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 147,
+   "desc": "Châtaigniers IGN à 147 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1474440726"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440727"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1474440752"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1474441204"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476529524"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1476529526"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476529565"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476529566"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1476529588"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1476529600"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1476529602"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1476529612"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1526459572"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14292-5.73621",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.142916,
+   "lon": 5.736212,
+   "commune": "Échirolles",
+   "conf": 4,
+   "bdforet": 249,
+   "desc": "Châtaigniers IGN à 249 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 1 places",
+     "url": "https://www.openstreetmap.org/way/1474441161"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476538666"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476538716"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 46 places",
+     "url": "https://www.openstreetmap.org/way/1476539053"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1476539110"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 16 places",
+     "url": "https://www.openstreetmap.org/way/1476539111"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476539183"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.13965-5.71969",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.139646,
+   "lon": 5.719693,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 154,
+   "desc": "Châtaigniers IGN à 154 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1474441281"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476539058"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1479186189"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.14149-5.72913",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.141494,
+   "lon": 5.729131,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 74,
+   "desc": "Châtaigniers IGN à 74 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 4 places",
+     "url": "https://www.openstreetmap.org/way/1476538650"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 5 places",
+     "url": "https://www.openstreetmap.org/way/1476538651"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1479186190"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.13806-5.71977",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.138063,
+   "lon": 5.719773,
+   "commune": "Échirolles",
+   "conf": 3,
+   "bdforet": 17,
+   "desc": "Châtaigniers IGN à 17 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public, 3 places",
+     "url": "https://www.openstreetmap.org/way/1476541129"
+    },
+    {
+     "label": "OpenStreetMap — parking public, 2 places",
+     "url": "https://www.openstreetmap.org/way/1476541133"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.23312-5.88771",
+   "type": "parking",
+   "name": "Espace Bergès",
+   "lat": 45.233119,
+   "lon": 5.887709,
+   "commune": "Villard-Bonnot",
+   "conf": 4,
+   "bdforet": 27,
+   "desc": "Châtaigniers IGN à 27 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1495624069"
+    },
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : OpenStreetMap, IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.21148-5.85911",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.211476,
+   "lon": 5.859112,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 4,
+   "desc": "Châtaigniers IGN à 4 m.",
+   "sources": [
+    {
+     "label": "OpenStreetMap — parking public",
+     "url": "https://www.openstreetmap.org/way/1531274411"
+    }
+   ],
+   "why": "sources : OpenStreetMap"
+  },
+  {
+   "id": "pk-45.24109-5.89076",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.24109,
+   "lon": 5.890758,
+   "commune": "Villard-Bonnot",
+   "conf": 3,
+   "bdforet": 133,
+   "desc": "Châtaigniers IGN à 133 m.",
+   "sources": [
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.23692-5.88710",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.236922,
+   "lon": 5.887101,
+   "commune": "Villard-Bonnot",
+   "conf": 3,
+   "bdforet": 115,
+   "desc": "Châtaigniers IGN à 115 m.",
+   "sources": [
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.21321-5.85856",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.213209,
+   "lon": 5.858563,
+   "commune": "Le Versoud",
+   "conf": 3,
+   "bdforet": 191,
+   "desc": "Châtaigniers IGN à 191 m.",
+   "sources": [
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.23381-5.88307",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.233807,
+   "lon": 5.883067,
+   "commune": "Villard-Bonnot",
+   "conf": 3,
+   "bdforet": 235,
+   "desc": "Châtaigniers IGN à 235 m.",
+   "sources": [
+    {
+     "label": "IGN BD TOPO — parking",
+     "url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_BD-TOPO"
+    }
+   ],
+   "why": "sources : IGN BD TOPO"
+  },
+  {
+   "id": "pk-45.33764-6.00037",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.337637,
+   "lon": 6.000371,
+   "commune": "Goncelin",
+   "conf": 3,
+   "bdforet": 6035,
+   "desc": "Châtaigniers IGN à 6035 m.",
+   "sources": [
+    {
+     "label": "Visorando — départ de « Boucle par les hameaux de Sollières et Ruche » (stationnement indiqué)",
+     "url": "https://www.visorando.com/randonnee-boucle-par-les-hameaux-de-sollieres-et-r/",
+     "quote": "Je donne un coup de pouce Description de la randonnée La route d'accès part de Goncelin , après le hameau du Champet, se garer à"
+    }
+   ],
+   "why": "sources : départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.22021-5.92808",
+   "type": "parking",
+   "name": "Parking",
+   "lat": 45.220209,
+   "lon": 5.928083,
+   "commune": "Saint-Mury-Monteymond",
+   "conf": 3,
+   "bdforet": 2826,
+   "desc": "Châtaigniers IGN à 2826 m.",
+   "sources": [
+    {
+     "label": "Visorando — départ de « Croix de Révollat depuis Saint-Mury-Monteymond » (stationnement indiqué)",
+     "url": "https://www.visorando.com/randonnee-croix-de-revollat-depuis-saint-mury-mont/",
+     "quote": "Je donne un coup de pouce Description de la randonnée Se garer sur le parking de la Salle des Fêtes"
+    }
+   ],
+   "why": "sources : départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.43898-6.14516",
+   "type": "pkprob",
+   "name": "Départ de rando (stationnement probable)",
+   "lat": 45.438976,
+   "lon": 6.145161,
+   "commune": "Arvillard",
+   "conf": 2,
+   "bdforet": 248,
+   "desc": "Point de départ d'une rando publiée : on s'y gare sans doute, mais aucune source ne le confirme. Vérifiez sur Street View. Châtaigniers IGN à 248 m.",
+   "sources": [
+    {
+     "label": "Visorando — départ de « Montagne d'Arvillard par Val Pelouse »",
+     "url": "https://www.visorando.com/randonnee-montagne-d-arvillard-par-val-pelouse/"
+    }
+   ],
+   "why": "sources : départ de rando Visorando"
+  },
+  {
+   "id": "pk-45.17250-5.78480",
    "type": "parking",
    "name": "Parking du fort du Mûrier",
-   "lat": 45.171501,
-   "lon": 5.78269,
+   "lat": 45.1725,
+   "lon": 5.7848,
    "commune": "Gières / Saint-Martin-d'Hères / Herbeys",
    "conf": 4,
-   "bdforet": 272,
-   "desc": "Parking cité comme point de départ pour « Colline du Mûrier (fort du Mûrier) ».",
+   "bdforet": 313,
+   "desc": "Parking cité comme point de départ pour « Colline du Mûrier (fort du Mûrier) ». Châtaigniers IGN à 313 m.",
    "sources": [
     {
      "label": "Chloé Clafoutis / Decathlon Outdoor"
     },
     {
-     "url": "https://www.skipass.com/forums/sports/ete/sujet-73047.html",
-     "date": "2006",
-     "quote": "assez souvent toutes petites et ont un peu le goût de la ville",
-     "label": "Forum Skipass « Des petits coins à châtaignes ? »"
+     "url": "https://www.reddit.com/r/Grenoble/comments/1ggm9j9/",
+     "date": "2024",
+     "quote": "sur la route vers les quatre seigneurs le fort du mûrier",
+     "label": "Reddit r/Grenoble « Spot à châtaignes » (u/LeCardinal)"
     }
    ],
-   "why": "parking cité par une source"
+   "why": "sources : cité par une source"
   },
   {
-   "id": "p-jarrie",
+   "id": "pk-45.11914-5.74524",
    "type": "parking",
    "name": "Parking de l'étang de Haute-Jarrie",
-   "lat": 45.119282,
-   "lon": 5.74442,
+   "lat": 45.119144,
+   "lon": 5.745239,
    "commune": "Jarrie / Champagnier",
    "conf": 4,
-   "bdforet": 664,
-   "desc": "Parking cité comme point de départ pour « Forêt de Haute-Jarrie & plateau de Champagnier ».",
+   "bdforet": 656,
+   "desc": "Parking cité comme point de départ pour « Forêt de Haute-Jarrie & plateau de Champagnier ». Châtaigniers IGN à 656 m.",
    "sources": [
     {
      "label": "Visorando (point de départ)"
@@ -618,41 +3082,18 @@
      "label": "Visorando — L'étang et la forêt de Haute Jarrie"
     }
    ],
-   "why": "parking cité par une source"
+   "why": "sources : cité par une source"
   },
   {
-   "id": "p-eybens",
-   "type": "parking",
-   "name": "Parking de l'église d'Eybens",
-   "lat": 45.147786,
-   "lon": 5.751573,
-   "commune": "Eybens",
-   "conf": 4,
-   "bdforet": 200,
-   "desc": "Parking cité comme point de départ pour « Forêt des Arcelles & belvédère du Sabot ».",
-   "sources": [
-    {
-     "label": "Visorando (point de départ)"
-    },
-    {
-     "url": "https://www.visorando.com/randonnee-la-boucle-des-arcelles-au-depart-d-eyben/",
-     "date": "2023",
-     "quote": "découvrir la forêt de châtaigniers dominant le gros bourg d'Eybens",
-     "label": "Visorando — Une boucle des Arcelles au départ d'Eybens"
-    }
-   ],
-   "why": "parking cité par une source"
-  },
-  {
-   "id": "p-herbeys",
+   "id": "pk-45.15046-5.79591",
    "type": "parking",
    "name": "Aire route de la Côte (Herbeys)",
    "lat": 45.150459,
    "lon": 5.795914,
-   "commune": "Herbeys",
+   "commune": "Herbeys / Eybens",
    "conf": 4,
    "bdforet": 1129,
-   "desc": "Parking cité comme point de départ pour « Hauteurs d'Herbeys — sentier du Fournet ».",
+   "desc": "Parking cité comme point de départ pour « Col des Quatre Seigneurs & sentier du Fournet ». Châtaigniers IGN à 1129 m.",
    "sources": [
     {
      "label": "Visorando (point de départ)"
@@ -664,32 +3105,10 @@
      "label": "Visorando — Sur les hauteurs d'Herbeys"
     }
    ],
-   "why": "parking cité par une source"
+   "why": "sources : cité par une source"
   },
   {
-   "id": "p-murianette",
-   "type": "parking",
-   "name": "Parking sous la mairie de Murianette",
-   "lat": 45.191743,
-   "lon": 5.819055,
-   "commune": "Murianette / Venon",
-   "conf": 4,
-   "bdforet": 190,
-   "desc": "Parking cité comme point de départ pour « Forêt domaniale de Combeloup ».",
-   "sources": [
-    {
-     "label": "Grenoble Tourisme (point de départ)"
-    },
-    {
-     "url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/murianette-2991146/la-foret-de-combeloup-depuis-murianette-5587130/",
-     "date": "",
-     "label": "Grenoble Tourisme — La forêt de Combeloup depuis Murianette (infos d'accès)"
-    }
-   ],
-   "why": "parking cité par une source"
-  },
-  {
-   "id": "p-vouillants",
+   "id": "pk-45.18100-5.67900",
    "type": "parking",
    "name": "Parking des Vouillants (D106b)",
    "lat": 45.181,
@@ -697,7 +3116,7 @@
    "commune": "Fontaine / Seyssinet-Pariset",
    "conf": 3,
    "bdforet": 5739,
-   "desc": "Parking cité comme point de départ pour « Les Vouillants (désert de Jean-Jacques Rousseau) ».",
+   "desc": "Parking cité comme point de départ pour « Les Vouillants (désert de Jean-Jacques Rousseau) ». Châtaigniers IGN à 5739 m.",
    "sources": [
     {
      "label": "Mômes à Grenoble"
@@ -708,781 +3127,1707 @@
      "label": "Mômes à Grenoble — balade aux Vouillants"
     }
    ],
-   "why": "parking cité par une source (emplacement approximatif)"
+   "why": "sources : cité par une source"
   },
   {
-   "id": "osm-node-2686489658",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.137664,
-   "lon": 5.747481,
-   "commune": "Bresson",
-   "conf": 3,
-   "bdforet": 67,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/2686489658"
-    }
-   ],
-   "why": "parking public OSM à 67 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-node-2769737099",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.135379,
-   "lon": 5.747776,
-   "commune": "Bresson",
-   "conf": 3,
-   "bdforet": 9,
-   "desc": "Parking public repéré dans OpenStreetMap · 1 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/2769737099"
-    }
-   ],
-   "why": "parking public OSM à 9 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-node-3693093254",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.493588,
-   "lon": 5.682447,
-   "commune": "Saint-Martin-de-Vaulserre",
+   "id": "pp-45.17696-5.80064",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.176964,
+   "lon": 5.800635,
+   "commune": "Venon",
    "conf": 2,
-   "bdforet": 137,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Charlet), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/3693093254"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 137 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-node-5595275683",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.214579,
-   "lon": 5.862662,
-   "commune": "Le Versoud",
-   "conf": 3,
-   "bdforet": 69,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/5595275683"
-    }
-   ],
-   "why": "parking public OSM à 69 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-node-13037914041",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.069141,
-   "lon": 5.731928,
-   "commune": "Champ-sur-Drac",
+   "id": "pp-45.20955-5.87763",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.20955,
+   "lon": 5.877628,
+   "commune": "Saint-Jean-le-Vieux",
    "conf": 2,
-   "bdforet": 6250,
-   "desc": "Parking public repéré dans OpenStreetMap · 6 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin du Couvat), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/13037914041"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 214 m d'un spot/départ de rando"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-node-14138536704",
-   "type": "parking",
-   "name": "Parking (terre)",
-   "lat": 45.369976,
-   "lon": 5.610557,
-   "commune": "Coublevie",
+   "id": "pp-45.18729-5.81748",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.187294,
+   "lon": 5.81748,
+   "commune": "Murianette",
    "conf": 2,
-   "bdforet": 177,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route, avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/node/14138536704"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 177 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-4231072",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.137479,
-   "lon": 5.741651,
-   "commune": "Bresson",
-   "conf": 3,
-   "bdforet": 76,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/4231072"
-    }
-   ],
-   "why": "parking public OSM à 76 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-40469129",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.146816,
-   "lon": 5.754577,
-   "commune": "Eybens",
-   "conf": 2,
-   "bdforet": 114,
-   "desc": "Parking public repéré dans OpenStreetMap · 7 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/40469129"
-    }
-   ],
-   "why": "parking public OSM à 114 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-42767618",
-   "type": "parking",
-   "name": "Parking (terre)",
-   "lat": 45.181496,
-   "lon": 5.67178,
-   "commune": "Seyssinet-Pariset",
-   "conf": 2,
-   "bdforet": 6119,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/42767618"
-    }
-   ],
-   "why": "parking public OSM à 241 m d'un spot/départ de rando"
-  },
-  {
-   "id": "osm-way-49180960",
-   "type": "parking",
-   "name": "Parking (terre)",
-   "lat": 45.173473,
-   "lon": 5.78111,
-   "commune": "Saint-Martin-d'Hères",
-   "conf": 3,
-   "bdforet": 28,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/49180960"
-    }
-   ],
-   "why": "parking public OSM à 28 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-60930026",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.182774,
-   "lon": 5.794009,
-   "commune": "Gières",
-   "conf": 3,
-   "bdforet": 86,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/60930026"
-    }
-   ],
-   "why": "parking public OSM à 86 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-60930067",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.187692,
-   "lon": 5.808011,
-   "commune": "Gières",
-   "conf": 2,
-   "bdforet": 141,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/60930067"
-    }
-   ],
-   "why": "parking public OSM à 141 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-99370835",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.181144,
-   "lon": 5.791141,
-   "commune": "Gières",
-   "conf": 2,
-   "bdforet": 194,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/99370835"
-    }
-   ],
-   "why": "parking public OSM à 194 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-104008748",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.147291,
-   "lon": 5.751321,
-   "commune": "Eybens",
-   "conf": 2,
-   "bdforet": 162,
-   "desc": "Parking public repéré dans OpenStreetMap · 14 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/104008748"
-    }
-   ],
-   "why": "parking public OSM à 162 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-107994094",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.199086,
-   "lon": 5.833154,
-   "commune": "Domène",
-   "conf": 2,
-   "bdforet": 177,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/107994094"
-    }
-   ],
-   "why": "parking public OSM à 177 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-113138459",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.139549,
-   "lon": 5.721322,
-   "commune": "Échirolles",
-   "conf": 3,
-   "bdforet": 88,
-   "desc": "Parking public repéré dans OpenStreetMap · 19 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/113138459"
-    }
-   ],
-   "why": "parking public OSM à 88 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-151050467",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.244675,
-   "lon": 5.89638,
-   "commune": "Villard-Bonnot",
-   "conf": 3,
-   "bdforet": 61,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/151050467"
-    }
-   ],
-   "why": "parking public OSM à 61 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-182943395",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.443058,
-   "lon": 6.12281,
-   "commune": "Arvillard",
-   "conf": 3,
-   "bdforet": 84,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/182943395"
-    }
-   ],
-   "why": "parking public OSM à 84 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-208575393",
-   "type": "parking",
-   "name": "Place des Petits Prés",
-   "lat": 45.453613,
-   "lon": 6.138085,
+   "id": "pp-45.44542-6.14517",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.445424,
+   "lon": 6.145167,
    "commune": "Presle",
    "conf": 2,
-   "bdforet": 117,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route du Pont du Chaney), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/208575393"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 117 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-218479481",
-   "type": "parking",
-   "name": "Place de la Mairie",
-   "lat": 45.487986,
-   "lon": 5.647106,
-   "commune": "Velanne",
-   "conf": 2,
-   "bdforet": 136,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/218479481"
-    }
-   ],
-   "why": "parking public OSM à 136 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-252422290",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.201643,
-   "lon": 5.838027,
-   "commune": "Domène",
-   "conf": 2,
-   "bdforet": 143,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/252422290"
-    }
-   ],
-   "why": "parking public OSM à 143 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-294785322",
-   "type": "parking",
-   "name": "Place de l'Ancienne École",
-   "lat": 45.440077,
-   "lon": 6.139965,
+   "id": "pp-45.44847-6.13259",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.448471,
+   "lon": 6.13259,
    "commune": "Arvillard",
-   "conf": 3,
-   "bdforet": 77,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/294785322"
-    }
-   ],
-   "why": "parking public OSM à 77 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-425728330",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.277481,
-   "lon": 5.965554,
-   "commune": "Hurtières",
    "conf": 2,
-   "bdforet": 6411,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 1,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Calvin), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/425728330"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 172 m d'un spot/départ de rando"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-633685364",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.145554,
-   "lon": 5.758559,
-   "commune": "Eybens",
+   "id": "pp-45.52494-5.62699",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.524939,
+   "lon": 5.626987,
+   "commune": "Pressins",
    "conf": 2,
-   "bdforet": 181,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 1,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Village), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/633685364"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 181 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-634186807",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.147129,
-   "lon": 5.761808,
-   "commune": "Eybens",
-   "conf": 3,
-   "bdforet": 95,
-   "desc": "Parking public repéré dans OpenStreetMap · 2 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/634186807"
-    }
-   ],
-   "why": "parking public OSM à 95 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-645706630",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.238256,
-   "lon": 5.889299,
-   "commune": "Villard-Bonnot",
-   "conf": 3,
-   "bdforet": 42,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/645706630"
-    }
-   ],
-   "why": "parking public OSM à 42 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-657386202",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.141329,
-   "lon": 5.723966,
-   "commune": "Échirolles",
-   "conf": 2,
-   "bdforet": 193,
-   "desc": "Parking public repéré dans OpenStreetMap · 25 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/657386202"
-    }
-   ],
-   "why": "parking public OSM à 193 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-741288758",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.196246,
-   "lon": 5.829301,
-   "commune": "Domène",
-   "conf": 2,
-   "bdforet": 133,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/741288758"
-    }
-   ],
-   "why": "parking public OSM à 133 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-845836680",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.20964,
-   "lon": 5.852811,
-   "commune": "Le Versoud",
-   "conf": 2,
-   "bdforet": 147,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/845836680"
-    }
-   ],
-   "why": "parking public OSM à 147 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-920170227",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.191817,
-   "lon": 5.818938,
-   "commune": "Murianette",
-   "conf": 2,
-   "bdforet": 200,
-   "desc": "Parking public repéré dans OpenStreetMap · 12 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/920170227"
-    }
-   ],
-   "why": "parking public OSM à 200 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1022232311",
-   "type": "parking",
-   "name": "Gorges du Bret",
-   "lat": 45.345939,
-   "lon": 5.634348,
-   "commune": "La Buisse",
-   "conf": 3,
-   "bdforet": 59,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1022232311"
-    }
-   ],
-   "why": "parking public OSM à 59 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1044487333",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.149427,
-   "lon": 5.816607,
-   "commune": "Saint-Martin-d'Uriage",
-   "conf": 2,
-   "bdforet": 123,
-   "desc": "Parking public repéré dans OpenStreetMap · 3 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1044487333"
-    }
-   ],
-   "why": "parking public OSM à 123 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1065901037",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.224675,
-   "lon": 5.874719,
-   "commune": "Le Versoud",
-   "conf": 2,
-   "bdforet": 152,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1065901037"
-    }
-   ],
-   "why": "parking public OSM à 152 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1111414540",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.185909,
-   "lon": 5.802954,
+   "id": "pp-45.17657-5.79249",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.176573,
+   "lon": 5.79249,
    "commune": "Gières",
    "conf": 2,
-   "bdforet": 193,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 2,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Venon), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1111414540"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 193 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-1197350735",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.141808,
-   "lon": 5.730749,
-   "commune": "Échirolles",
-   "conf": 2,
-   "bdforet": 113,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1197350735"
-    }
-   ],
-   "why": "parking public OSM à 113 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1306928963",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.228939,
-   "lon": 5.894446,
-   "commune": "La Combe-de-Lancey",
-   "conf": 3,
-   "bdforet": 42,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1306928963"
-    }
-   ],
-   "why": "parking public OSM à 42 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1385559744",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.185273,
-   "lon": 5.823357,
+   "id": "pp-45.18768-5.83438",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.187677,
+   "lon": 5.834377,
    "commune": "Murianette",
-   "conf": 3,
-   "bdforet": 0,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1385559744"
-    }
-   ],
-   "why": "parking public OSM à 0 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1422862978",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.222684,
-   "lon": 5.927061,
-   "commune": "Saint-Mury-Monteymond",
    "conf": 2,
-   "bdforet": 2663,
-   "desc": "Parking public repéré dans OpenStreetMap · 6 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "bdforet": 3,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route, avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1422862978"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 286 m d'un spot/départ de rando"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
   },
   {
-   "id": "osm-way-1428997495",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.154403,
-   "lon": 5.800523,
-   "commune": "Herbeys",
+   "id": "pp-45.16795-5.77494",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.167951,
+   "lon": 5.774937,
+   "commune": "Saint-Martin-d'Hères",
    "conf": 2,
-   "bdforet": 1169,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1428997495"
-    }
-   ],
-   "why": "parking public OSM à 159 m d'un spot/départ de rando"
-  },
-  {
-   "id": "osm-way-1473329961",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.14049,
-   "lon": 5.750105,
-   "commune": "Bresson",
-   "conf": 2,
-   "bdforet": 198,
-   "desc": "Parking public repéré dans OpenStreetMap · 6 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1473329961"
-    }
-   ],
-   "why": "parking public OSM à 198 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1476529526",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.138289,
-   "lon": 5.718329,
-   "commune": "Échirolles",
-   "conf": 2,
-   "bdforet": 132,
-   "desc": "Parking public repéré dans OpenStreetMap · 1 places. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1476529526"
-    }
-   ],
-   "why": "parking public OSM à 132 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1495624069",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.233119,
-   "lon": 5.887709,
-   "commune": "Villard-Bonnot",
-   "conf": 3,
-   "bdforet": 27,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
-   "sources": [
-    {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1495624069"
-    }
-   ],
-   "why": "parking public OSM à 27 m d'un peuplement IGN"
-  },
-  {
-   "id": "osm-way-1531274411",
-   "type": "parking",
-   "name": "Parking",
-   "lat": 45.211476,
-   "lon": 5.859112,
-   "commune": "Le Versoud",
-   "conf": 3,
    "bdforet": 4,
-   "desc": "Parking public repéré dans OpenStreetMap. Pratique pour démarrer à pied vers les châtaigniers les plus proches.",
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue du 4 Janvier 1944), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
    "sources": [
     {
-     "label": "OpenStreetMap",
-     "url": "https://www.openstreetmap.org/way/1531274411"
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
     }
    ],
-   "why": "parking public OSM à 4 m d'un peuplement IGN"
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.10443-5.80843",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.104432,
+   "lon": 5.808428,
+   "commune": "Vaulnaveys-le-Bas",
+   "conf": 2,
+   "bdforet": 8,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin des Meynards), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.18750-5.81199",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.187504,
+   "lon": 5.811991,
+   "commune": "Gières",
+   "conf": 2,
+   "bdforet": 10,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue du Japin), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.22274-5.87539",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.222745,
+   "lon": 5.875385,
+   "commune": "Le Versoud",
+   "conf": 2,
+   "bdforet": 14,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue Victor Hugo), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.44830-6.14197",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.448302,
+   "lon": 6.141974,
+   "commune": "Presle",
+   "conf": 2,
+   "bdforet": 33,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Pont du Chaney), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.37355-5.61122",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.373547,
+   "lon": 5.611217,
+   "commune": "Voiron",
+   "conf": 2,
+   "bdforet": 40,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de la Vouise), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.12573-5.74440",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.125732,
+   "lon": 5.744401,
+   "commune": "Jarrie",
+   "conf": 2,
+   "bdforet": 86,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin Ferré), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.38626-5.59847",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.38626,
+   "lon": 5.598472,
+   "commune": "Voiron",
+   "conf": 2,
+   "bdforet": 129,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Grattons), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.15692-5.77571",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.156924,
+   "lon": 5.775714,
+   "commune": "Poisat",
+   "conf": 2,
+   "bdforet": 131,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route, avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.47966-5.65025",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.479659,
+   "lon": 5.65025,
+   "commune": "Velanne",
+   "conf": 2,
+   "bdforet": 248,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route du Grosset), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.10756-5.81752",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.107564,
+   "lon": 5.817525,
+   "commune": "Vaulnaveys-le-Bas",
+   "conf": 2,
+   "bdforet": 558,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Montchaffrey), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.12105-5.75386",
+   "type": "pkprob",
+   "name": "Départ de sentier balisé (parking à vérifier)",
+   "lat": 45.121046,
+   "lon": 5.753862,
+   "commune": "Jarrie",
+   "conf": 2,
+   "bdforet": 599,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Fiards), avec un poteau de randonnée. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers + poteau de randonnée"
+  },
+  {
+   "id": "pp-45.46375-5.61141",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.463751,
+   "lon": 5.611407,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Courrières au Bessey). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.52098-5.62859",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.520982,
+   "lon": 5.628594,
+   "commune": "Pressins",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Montée de l'Église). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.51205-5.63120",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.512047,
+   "lon": 5.631204,
+   "commune": "Pressins",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Montée de la Corbière). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.23110-5.88467",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.231102,
+   "lon": 5.884671,
+   "commune": "Villard-Bonnot",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Rue Pégoud). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.21253-5.87150",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.212526,
+   "lon": 5.871502,
+   "commune": "Saint-Jean-le-Vieux",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin de la Monta). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49762-5.69292",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.497616,
+   "lon": 5.692924,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Savagneu). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.47307-5.59812",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.473071,
+   "lon": 5.598116,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin du Chasselard). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48643-5.64337",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.486433,
+   "lon": 5.643367,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route du Mont). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48890-5.69665",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.488895,
+   "lon": 5.696646,
+   "commune": "Saint-Albin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Impasse de la Branchat). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.22191-5.88234",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.221911,
+   "lon": 5.882343,
+   "commune": "La Combe-de-Lancey",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin de Saint-Jean). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.36075-5.63559",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.360746,
+   "lon": 5.635592,
+   "commune": "Coublevie",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.22608-5.88612",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.226084,
+   "lon": 5.886117,
+   "commune": "La Combe-de-Lancey",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route des Carillères). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.23028-5.89022",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.230277,
+   "lon": 5.890221,
+   "commune": "La Combe-de-Lancey",
+   "conf": 1,
+   "bdforet": 0,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route des Carillères). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.38167-5.59551",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.381667,
+   "lon": 5.595515,
+   "commune": "Voiron",
+   "conf": 1,
+   "bdforet": 1,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue d'Orgeoise). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.38288-5.60774",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.382885,
+   "lon": 5.607736,
+   "commune": "Voiron",
+   "conf": 1,
+   "bdforet": 1,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de la Cou). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45280-6.14359",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.452802,
+   "lon": 6.143593,
+   "commune": "Presle",
+   "conf": 1,
+   "bdforet": 2,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de la Gaye). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44240-6.14951",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.4424,
+   "lon": 6.149505,
+   "commune": "Presle",
+   "conf": 1,
+   "bdforet": 2,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Prodin). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.18627-5.82608",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.186272,
+   "lon": 5.82608,
+   "commune": "Murianette",
+   "conf": 1,
+   "bdforet": 2,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.20653-5.86015",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.206531,
+   "lon": 5.860153,
+   "commune": "Saint-Jean-le-Vieux",
+   "conf": 1,
+   "bdforet": 2,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45139-6.13639",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.451389,
+   "lon": 6.136393,
+   "commune": "Presle",
+   "conf": 1,
+   "bdforet": 3,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Montessuit). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.16045-5.78409",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.160455,
+   "lon": 5.784092,
+   "commune": "Saint-Martin-d'Hères",
+   "conf": 1,
+   "bdforet": 4,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route des Maquis). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.20767-5.85206",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.207666,
+   "lon": 5.852063,
+   "commune": "Domène",
+   "conf": 1,
+   "bdforet": 6,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Allée Jean Bistesi). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.47653-5.62317",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.476527,
+   "lon": 5.623167,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 6,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de l'Ourcière). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48980-5.68442",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.489801,
+   "lon": 5.684422,
+   "commune": "Saint-Albin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 7,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Bapt). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.37858-5.62904",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.378575,
+   "lon": 5.629042,
+   "commune": "Saint-Étienne-de-Crossey",
+   "conf": 1,
+   "bdforet": 7,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Tolvon). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.46652-5.62261",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.466521,
+   "lon": 5.622613,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 7,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Saint-Sulpice). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45665-5.60261",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.456654,
+   "lon": 5.602612,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 7,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48205-5.60266",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.482051,
+   "lon": 5.602663,
+   "commune": "Montferrat",
+   "conf": 1,
+   "bdforet": 12,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44799-6.12723",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.447992,
+   "lon": 6.127232,
+   "commune": "Arvillard",
+   "conf": 1,
+   "bdforet": 13,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Calvin). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49269-5.64509",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.492686,
+   "lon": 5.645093,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 15,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Mont). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.39767-6.01693",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.397675,
+   "lon": 6.016932,
+   "commune": "Pontcharra",
+   "conf": 1,
+   "bdforet": 15,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Berruer). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44181-6.12703",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.441811,
+   "lon": 6.127033,
+   "commune": "Arvillard",
+   "conf": 1,
+   "bdforet": 17,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue du Milieu). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49817-5.66445",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.498166,
+   "lon": 5.664455,
+   "commune": "Saint-Jean-d'Avelanne",
+   "conf": 1,
+   "bdforet": 21,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de la Croze). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.47704-5.61424",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.477035,
+   "lon": 5.614236,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 21,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Massieu). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.37496-5.62559",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.37496,
+   "lon": 5.625585,
+   "commune": "Saint-Étienne-de-Crossey",
+   "conf": 1,
+   "bdforet": 28,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Tolvon). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49055-5.66781",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.490552,
+   "lon": 5.667812,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 28,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Pierre Grosse). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.40117-6.01863",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.40117,
+   "lon": 6.018632,
+   "commune": "Pontcharra",
+   "conf": 1,
+   "bdforet": 37,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Papillard). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.53361-5.60307",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.533606,
+   "lon": 5.603066,
+   "commune": "Les Abrets en Dauphiné",
+   "conf": 1,
+   "bdforet": 37,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin du Perret). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44245-6.13254",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.442445,
+   "lon": 6.132542,
+   "commune": "Arvillard",
+   "conf": 1,
+   "bdforet": 43,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de la Combe). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50961-5.62391",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.509606,
+   "lon": 5.623911,
+   "commune": "Les Abrets en Dauphiné",
+   "conf": 1,
+   "bdforet": 44,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Raisins). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45352-5.62269",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.45352,
+   "lon": 5.622693,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 51,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Roulet). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49912-5.68258",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.499117,
+   "lon": 5.682583,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 52,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Melet). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44832-6.14913",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.44832,
+   "lon": 6.149131,
+   "commune": "Presle",
+   "conf": 1,
+   "bdforet": 68,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Panse Durieu). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.13335-5.75002",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.133348,
+   "lon": 5.750018,
+   "commune": "Bresson",
+   "conf": 1,
+   "bdforet": 70,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Rue de Montavie). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.46672-5.60706",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.466725,
+   "lon": 5.60706,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 73,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Montée des Termes). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49490-5.65549",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.494899,
+   "lon": 5.655493,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 85,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Impasse du Puisat). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.37210-5.60619",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.372097,
+   "lon": 5.606187,
+   "commune": "Voiron",
+   "conf": 1,
+   "bdforet": 89,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin du Regardou en Vouise). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50632-5.60945",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.506316,
+   "lon": 5.609445,
+   "commune": "Les Abrets en Dauphiné",
+   "conf": 1,
+   "bdforet": 90,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Mont-Rond). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48964-5.63944",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.489637,
+   "lon": 5.63944,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 93,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de la Tour). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.37457-5.59413",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.374575,
+   "lon": 5.594132,
+   "commune": "Voiron",
+   "conf": 1,
+   "bdforet": 96,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Rue du Garat). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50678-5.64936",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.506784,
+   "lon": 5.649356,
+   "commune": "Saint-Jean-d'Avelanne",
+   "conf": 1,
+   "bdforet": 96,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin du Molard Rond). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50441-5.65504",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.504414,
+   "lon": 5.655036,
+   "commune": "Saint-Jean-d'Avelanne",
+   "conf": 1,
+   "bdforet": 98,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Mollarond). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45195-6.15431",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.451946,
+   "lon": 6.154309,
+   "commune": "Presle",
+   "conf": 1,
+   "bdforet": 99,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route des Sources). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49698-5.61349",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.496977,
+   "lon": 5.613493,
+   "commune": "Les Abrets en Dauphiné",
+   "conf": 1,
+   "bdforet": 100,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Sougey). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50096-5.63936",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.500961,
+   "lon": 5.639364,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 100,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route des Bruyères). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.47335-5.61879",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.473351,
+   "lon": 5.618794,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 106,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Communaux). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.14447-5.80602",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.144468,
+   "lon": 5.806019,
+   "commune": "Herbeys",
+   "conf": 1,
+   "bdforet": 108,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route d'Uriage). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.38138-5.62316",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.381384,
+   "lon": 5.623159,
+   "commune": "Saint-Étienne-de-Crossey",
+   "conf": 1,
+   "bdforet": 112,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route du Paris). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48176-5.64221",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.481757,
+   "lon": 5.642206,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 113,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin des Châtaigniers). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.37986-5.61152",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.379858,
+   "lon": 5.611522,
+   "commune": "Saint-Étienne-de-Crossey",
+   "conf": 1,
+   "bdforet": 118,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Tolvon). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49628-5.67188",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.496278,
+   "lon": 5.671877,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 128,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de Saint-Jean). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48728-5.59713",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.48728,
+   "lon": 5.597132,
+   "commune": "Montferrat",
+   "conf": 1,
+   "bdforet": 136,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin des Falconnières). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.38317-5.61407",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.383174,
+   "lon": 5.614065,
+   "commune": "Saint-Étienne-de-Crossey",
+   "conf": 1,
+   "bdforet": 137,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route du Paris). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.46590-5.61752",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.465896,
+   "lon": 5.617517,
+   "commune": "Saint-Sulpice-des-Rivoires",
+   "conf": 1,
+   "bdforet": 138,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48614-5.66383",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.486136,
+   "lon": 5.66383,
+   "commune": "Velanne",
+   "conf": 1,
+   "bdforet": 142,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin du Sacré Coeur). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.36532-5.61025",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.36532,
+   "lon": 5.610251,
+   "commune": "Coublevie",
+   "conf": 1,
+   "bdforet": 142,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin du Bois Joli). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.39362-6.01885",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.393616,
+   "lon": 6.018852,
+   "commune": "Le Cheylas",
+   "conf": 1,
+   "bdforet": 152,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de l'Abbaye). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.49108-5.69186",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.491078,
+   "lon": 5.691864,
+   "commune": "Saint-Albin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 153,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Chemin du Loyasset). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.36536-5.60319",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.365357,
+   "lon": 5.603192,
+   "commune": "Voiron",
+   "conf": 1,
+   "bdforet": 162,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Rue Saint-Vincent). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.44992-5.61531",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.449922,
+   "lon": 5.615307,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 165,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Grand Consuoz). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.48445-5.67641",
+   "type": "pkprob",
+   "name": "Entrée de sentier (parking à vérifier)",
+   "lat": 45.484449,
+   "lon": 5.676412,
+   "commune": "Saint-Martin-de-Vaulserre",
+   "conf": 1,
+   "bdforet": 169,
+   "desc": "Ici, un sentier qui traverse une zone de châtaigniers rejoint la route (Route de Bapt). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.50244-5.65977",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.502435,
+   "lon": 5.659771,
+   "commune": "Saint-Jean-d'Avelanne",
+   "conf": 1,
+   "bdforet": 174,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Mollarond). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.53043-5.61923",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.530429,
+   "lon": 5.619234,
+   "commune": "Pressins",
+   "conf": 1,
+   "bdforet": 179,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route du Village). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.39935-5.62388",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.399349,
+   "lon": 5.62388,
+   "commune": "Saint-Nicolas-de-Macherin",
+   "conf": 1,
+   "bdforet": 191,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de Cote Béranger). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.51504-5.63591",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.51504,
+   "lon": 5.635914,
+   "commune": "Pressins",
+   "conf": 1,
+   "bdforet": 215,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Montée de la Corbière). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45204-5.60659",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.452037,
+   "lon": 5.606591,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 262,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.19082-5.84079",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.19082,
+   "lon": 5.840788,
+   "commune": "Murianette",
+   "conf": 1,
+   "bdforet": 310,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Chemin de l'Ayat). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.45804-5.60745",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.458036,
+   "lon": 5.607451,
+   "commune": "Saint-Geoire-en-Valdaine",
+   "conf": 1,
+   "bdforet": 365,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route. Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.53481-5.59786",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.534813,
+   "lon": 5.597857,
+   "commune": "Les Abrets en Dauphiné",
+   "conf": 1,
+   "bdforet": 373,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Rue Bayard). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
+  },
+  {
+   "id": "pp-45.19625-5.85529",
+   "type": "pkprob",
+   "name": "Entrée de piste (parking à vérifier)",
+   "lat": 45.196247,
+   "lon": 5.855287,
+   "commune": "Revel",
+   "conf": 1,
+   "bdforet": 412,
+   "desc": "Ici, une piste qui traverse une zone de châtaigniers rejoint la route (Route de la Tour). Il y a souvent un bas-côté ou une petite aire pour 2–3 voitures, mais rien ne le garantit : vérifiez sur Street View.",
+   "sources": [
+    {
+     "label": "Déduit d'OpenStreetMap (croisement sentier × route)"
+    }
+   ],
+   "why": "croisement sentier/route menant aux châtaigniers"
   }
  ]
 }
